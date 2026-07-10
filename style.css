@@ -166,12 +166,12 @@ ul {
 }
 
 .header-logo {
-    max-height: 50px;
+    max-height: 65px;
     width: auto;
 }
 
 .footer-logo {
-    max-height: 60px;
+    max-height: 75px;
     width: auto;
     margin-bottom: 15px;
 }
