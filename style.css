@@ -366,8 +366,21 @@ ul {
 }
 
 .service-icon {
-    font-size: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
     margin-bottom: 20px;
+}
+
+.service-icon svg {
+    width: 3.5rem;
+    height: 3.5rem;
+    fill: var(--secondary-color);
+    transition: transform var(--transition-normal);
+}
+
+.service-card:hover .service-icon svg {
+    transform: scale(1.08);
 }
 
 .service-title {
