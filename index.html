@@ -79,8 +79,8 @@
                 <div class="service-card">
                     <div class="service-icon">🚛</div>
                     <h3 class="service-title">Refrigerated & Dry Van</h3>
-                    <p class="service-desc">We offer nationwide refrigerated and dry van transportation services to keep your freight moving efficiently.</p>
-                    <a href="#" class="btn btn-sm btn-outline">Learn More</a>
+                    <p class="service-desc">We are an industry leader in refrigerated and dry van transportation. We specialize in temperature-controlled logistics, ensuring your perishable freight is shipped at the precise temperature required. Our state-of-the-art equipment and highly trained drivers guarantee safe, reliable, and on-time nationwide delivery.</p>
+                    <a href="#quote" class="btn btn-sm btn-outline">Request Quote</a>
                 </div>
             </div>
         </div>
@@ -102,7 +102,7 @@
             <div class="divider center"></div>
             <p class="section-subtitle text-center">Get a fast, reliable quote for your shipping and logistics needs.</p>
             
-            <form class="contact-form">
+            <form id="quote-form" class="contact-form">
                 <div class="form-grid">
                     <div class="form-group">
                         <label for="quote-name">Full Name</label>
@@ -139,9 +139,13 @@
                     <textarea id="quote-message" name="message" rows="4" placeholder="Describe your shipment (weight, dimensions, special handling)..."></textarea>
                 </div>
                 <div class="text-center">
-                    <button type="submit" class="btn btn-primary">Submit Quote Request</button>
+                    <button type="submit" id="submit-btn-quote" class="btn btn-primary">Submit Quote Request</button>
                 </div>
             </form>
+            <div id="quote-success" class="form-success-msg" style="display: none;">
+                <h3>Request Received!</h3>
+                <p>Thank you for contacting VTLTRANSLLC. Our logistics team will review your request and get back to you with a quote shortly.</p>
+            </div>
         </div>
     </section>
 
@@ -152,7 +156,7 @@
             <div class="divider center"></div>
             <p class="section-subtitle text-center">Join VTLTRANSLLC. Apply today to become a part of our professional driving team.</p>
             
-            <form class="contact-form">
+            <form id="careers-form" class="contact-form">
                 <div class="form-grid">
                     <div class="form-group">
                         <label for="app-name">Full Name</label>
@@ -193,9 +197,13 @@
                     <textarea id="app-message" name="message" rows="4" placeholder="Briefly describe your driving history, any safety awards, or preferred routes..."></textarea>
                 </div>
                 <div class="text-center">
-                    <button type="submit" class="btn btn-primary">Submit Application</button>
+                    <button type="submit" id="submit-btn-careers" class="btn btn-primary">Submit Application</button>
                 </div>
             </form>
+            <div id="careers-success" class="form-success-msg" style="display: none;">
+                <h3>Application Submitted!</h3>
+                <p>Thank you for applying to join our fleet. Our recruitment team will review your qualifications and contact you shortly.</p>
+            </div>
         </div>
     </section>
 
