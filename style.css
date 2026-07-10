@@ -289,9 +289,9 @@ ul {
     left: 0;
     width: 100%;
     height: 100%;
-    /* Gradient overlay + placeholder background */
-    background: linear-gradient(135deg, rgba(15, 58, 102, 0.9) 0%, rgba(15, 58, 102, 0.4) 100%), 
-                url('https://images.unsplash.com/photo-1586864387967-d02ef85d93e8?auto=format&fit=crop&q=80&w=1920') no-repeat center center/cover;
+    /* Gradient overlay + truck background */
+    background: linear-gradient(135deg, rgba(15, 58, 102, 0.75) 0%, rgba(15, 58, 102, 0.35) 100%), 
+                url('assets/hero-bg.png') no-repeat center center/cover;
     z-index: -1;
 }
 
@@ -543,24 +543,3 @@ ul {
         grid-template-columns: 1fr;
     }
 }
-
-/* =========================================
-   Truck Showcase Section
-   ========================================= */
-.truck-showcase {
-    padding: 40px 0;
-    background-color: var(--white);
-}
-
-.showcase-img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 12px;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
-    transition: transform var(--transition-normal);
-}
-
-.showcase-img:hover {
-    transform: scale(1.02);
-}
-
