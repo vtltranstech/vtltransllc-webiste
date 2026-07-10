@@ -9,6 +9,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="icon" type="image/png" href="favicon.png">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -50,7 +51,7 @@
             <h1 class="hero-title">Delivering Quality & Reliability Worldwide</h1>
             <p class="hero-subtitle">At VTLTRANSLLC, we specialize in safe, timely, and professional transportation services. From refrigerated freight to specialized aviation transport, your cargo is our priority.</p>
             <div class="hero-buttons">
-                <a href="#contact" class="btn btn-primary">Request a Quote</a>
+                <a href="#quote" class="btn btn-primary">Request a Quote</a>
                 <a href="#careers" class="btn btn-secondary">Drivers Apply</a>
             </div>
         </div>
@@ -91,6 +92,110 @@
             <h2 class="cta-title">Join Our Growing Fleet</h2>
             <p class="cta-text">We are always looking for dedicated professionals. Enjoy competitive pay, great benefits, and a supportive team environment.</p>
             <a href="#careers" class="btn btn-primary">View Career Opportunities</a>
+        </div>
+    </section>
+
+    <!-- Request a Quote Section -->
+    <section id="quote" class="section">
+        <div class="container form-container">
+            <h2 class="section-title text-center">Request a Quote</h2>
+            <div class="divider center"></div>
+            <p class="section-subtitle text-center">Get a fast, reliable quote for your shipping and logistics needs.</p>
+            
+            <form class="contact-form">
+                <div class="form-grid">
+                    <div class="form-group">
+                        <label for="quote-name">Full Name</label>
+                        <input type="text" id="quote-name" name="name" required placeholder="John Doe">
+                    </div>
+                    <div class="form-group">
+                        <label for="quote-email">Email Address</label>
+                        <input type="email" id="quote-email" name="email" required placeholder="john@example.com">
+                    </div>
+                    <div class="form-group">
+                        <label for="quote-phone">Phone Number</label>
+                        <input type="tel" id="quote-phone" name="phone" required placeholder="(123) 456-7890">
+                    </div>
+                    <div class="form-group">
+                        <label for="quote-service">Service Needed</label>
+                        <select id="quote-service" name="service" required>
+                            <option value="" disabled selected>Select a Service</option>
+                            <option value="refrigerated">Refrigerated Transport</option>
+                            <option value="dry-van">Dry Van Transport</option>
+                            <option value="other">Other Logistics</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="quote-origin">Origin City/State</label>
+                        <input type="text" id="quote-origin" name="origin" required placeholder="e.g. Chicago, IL">
+                    </div>
+                    <div class="form-group">
+                        <label for="quote-dest">Destination City/State</label>
+                        <input type="text" id="quote-dest" name="destination" required placeholder="e.g. Phoenix, AZ">
+                    </div>
+                </div>
+                <div class="form-group full-width">
+                    <label for="quote-message">Additional Details</label>
+                    <textarea id="quote-message" name="message" rows="4" placeholder="Describe your shipment (weight, dimensions, special handling)..."></textarea>
+                </div>
+                <div class="text-center">
+                    <button type="submit" class="btn btn-primary">Submit Quote Request</button>
+                </div>
+            </form>
+        </div>
+    </section>
+
+    <!-- Careers / Driver Application Section -->
+    <section id="careers" class="section bg-light">
+        <div class="container form-container">
+            <h2 class="section-title text-center">Driver Application</h2>
+            <div class="divider center"></div>
+            <p class="section-subtitle text-center">Join VTLTRANSLLC. Apply today to become a part of our professional driving team.</p>
+            
+            <form class="contact-form">
+                <div class="form-grid">
+                    <div class="form-group">
+                        <label for="app-name">Full Name</label>
+                        <input type="text" id="app-name" name="name" required placeholder="John Doe">
+                    </div>
+                    <div class="form-group">
+                        <label for="app-email">Email Address</label>
+                        <input type="email" id="app-email" name="email" required placeholder="john@example.com">
+                    </div>
+                    <div class="form-group">
+                        <label for="app-phone">Phone Number</label>
+                        <input type="tel" id="app-phone" name="phone" required placeholder="(123) 456-7890">
+                    </div>
+                    <div class="form-group">
+                        <label for="app-experience">Years of CDL Experience</label>
+                        <input type="number" id="app-experience" name="experience" min="0" required placeholder="e.g. 3">
+                    </div>
+                    <div class="form-group">
+                        <label for="app-cdl">CDL License Class</label>
+                        <select id="app-cdl" name="cdl" required>
+                            <option value="" disabled selected>Select License Class</option>
+                            <option value="class-a">Class A CDL</option>
+                            <option value="class-b">Class B CDL</option>
+                            <option value="other">Other / Owner Operator</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="app-violations">Clean Driving Record?</label>
+                        <select id="app-violations" name="clean_record" required>
+                            <option value="" disabled selected>Select option</option>
+                            <option value="yes">Yes, Clean Record</option>
+                            <option value="no">No, Have Violations</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="form-group full-width">
+                    <label for="app-message">Message / Driving History Summary</label>
+                    <textarea id="app-message" name="message" rows="4" placeholder="Briefly describe your driving history, any safety awards, or preferred routes..."></textarea>
+                </div>
+                <div class="text-center">
+                    <button type="submit" class="btn btn-primary">Submit Application</button>
+                </div>
+            </form>
         </div>
     </section>
 
