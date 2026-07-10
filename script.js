@@ -2,6 +2,25 @@ document.addEventListener('DOMContentLoaded', () => {
     const header = document.getElementById('header');
     const menuToggle = document.getElementById('menu-toggle');
     const navMenu = document.getElementById('nav-menu');
+    
+    const quoteSection = document.getElementById('quote');
+    const careersSection = document.getElementById('careers');
+
+    // Hide both forms by default on page load (unless hash is provided)
+    const initFormDisplay = () => {
+        const hash = window.location.hash;
+        if (hash === '#quote') {
+            if (quoteSection) quoteSection.style.display = 'block';
+            if (careersSection) careersSection.style.display = 'none';
+        } else if (hash === '#careers') {
+            if (careersSection) careersSection.style.display = 'block';
+            if (quoteSection) quoteSection.style.display = 'none';
+        } else {
+            if (quoteSection) quoteSection.style.display = 'none';
+            if (careersSection) careersSection.style.display = 'none';
+        }
+    };
+    initFormDisplay();
 
     // Header scroll effect
     window.addEventListener('scroll', () => {
@@ -49,6 +68,16 @@ document.addEventListener('DOMContentLoaded', () => {
             
             e.preventDefault();
             const targetId = this.getAttribute('href');
+
+            // Toggle form visibility based on target clicked
+            if (targetId === '#quote') {
+                if (quoteSection) quoteSection.style.display = 'block';
+                if (careersSection) careersSection.style.display = 'none';
+            } else if (targetId === '#careers') {
+                if (careersSection) careersSection.style.display = 'block';
+                if (quoteSection) quoteSection.style.display = 'none';
+            }
+
             const targetElement = document.querySelector(targetId);
             
             if (targetElement) {
