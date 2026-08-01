@@ -264,52 +264,6 @@
         </div>
     </div>
 
-    <!-- iOS Distribution URLs Reference Box -->
-    <div class="asset-table-container">
-        <div class="asset-box">
-            <h3>🔗 iOS Distribution Testing Asset URLs</h3>
-            <p style="font-size: 0.95rem; color: var(--text-light); margin-bottom: 20px;">
-                Use the following exact URLs when configuring your iOS Over-The-Air distribution, TestFlight, or enterprise distribution manifest:
-            </p>
-            
-            <!-- 1. Display Image URL -->
-            <div class="url-item">
-                <label>Display Image URL (57x57 Icon PNG):</label>
-                <div class="url-input-group">
-                    <input type="text" readonly value="https://www.vtltransllc.com/apps/display-image.png" id="url-display">
-                    <button class="copy-btn" onclick="copyUrl('url-display', this)">Copy</button>
-                </div>
-            </div>
-            
-            <!-- 2. Full Size Image URL -->
-            <div class="url-item">
-                <label>Full Size Image URL (512x512 Icon PNG):</label>
-                <div class="url-input-group">
-                    <input type="text" readonly value="https://www.vtltransllc.com/apps/full-size-image.png" id="url-full">
-                    <button class="copy-btn" onclick="copyUrl('url-full', this)">Copy</button>
-                </div>
-            </div>
-            
-            <!-- 3. IPA Software Package URL -->
-            <div class="url-item">
-                <label>IPA Application Package URL (.ipa):</label>
-                <div class="url-input-group">
-                    <input type="text" readonly value="https://www.vtltransllc.com/apps/vtltransllc.ipa" id="url-ipa">
-                    <button class="copy-btn" onclick="copyUrl('url-ipa', this)">Copy</button>
-                </div>
-            </div>
-
-            <!-- 4. Manifest PLIST URL -->
-            <div class="url-item">
-                <label>OTA Manifest URL (manifest.plist):</label>
-                <div class="url-input-group">
-                    <input type="text" readonly value="https://www.vtltransllc.com/apps/manifest.plist" id="url-plist">
-                    <button class="copy-btn" onclick="copyUrl('url-plist', this)">Copy</button>
-                </div>
-            </div>
-        </div>
-    </div>
-
     <!-- Footer -->
     <footer id="contact" class="footer">
         <div class="container footer-grid">
@@ -341,22 +295,5 @@
                 <p>&copy; 2026 VTLTRANSLLC. All rights reserved.</p>
             </div>
         </div>
-    </footer>
-
-    <script>
-        function copyUrl(inputId, btn) {
-            const input = document.getElementById(inputId);
-            input.select();
-            input.setSelectionRange(0, 99999); // For mobile devices
-            navigator.clipboard.writeText(input.value);
-            const originalText = btn.textContent;
-            btn.textContent = 'Copied!';
-            btn.style.background = '#22c55e';
-            setTimeout(() => {
-                btn.textContent = originalText;
-                btn.style.background = '';
-            }, 2000);
-        }
-    </script>
 </body>
 </html>
