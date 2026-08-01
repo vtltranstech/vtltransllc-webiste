@@ -14,11 +14,11 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC</string>
+				<string>B578199D966251D2B6931D37965DBCB31F189939</string>
 				<key>dateExpires</key>
-				<string>13/07/27</string>
+				<string>22/07/27</string>
 				<key>type</key>
-				<string>Apple Development</string>
+				<string>Cloud Managed Apple Distribution</string>
 			</dict>
 			<key>embeddedBinaries</key>
 			<array>
@@ -32,11 +32,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC</string>
+						<string>B578199D966251D2B6931D37965DBCB31F189939</string>
 						<key>dateExpires</key>
-						<string>13/07/27</string>
+						<string>22/07/27</string>
 						<key>type</key>
-						<string>Apple Development</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>FirebaseFirestoreInternal.framework</string>
@@ -60,11 +60,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC</string>
+						<string>B578199D966251D2B6931D37965DBCB31F189939</string>
 						<key>dateExpires</key>
-						<string>13/07/27</string>
+						<string>22/07/27</string>
 						<key>type</key>
-						<string>Apple Development</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>absl.framework</string>
@@ -88,11 +88,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC</string>
+						<string>B578199D966251D2B6931D37965DBCB31F189939</string>
 						<key>dateExpires</key>
-						<string>13/07/27</string>
+						<string>22/07/27</string>
 						<key>type</key>
-						<string>Apple Development</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>grpc.framework</string>
@@ -116,11 +116,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC</string>
+						<string>B578199D966251D2B6931D37965DBCB31F189939</string>
 						<key>dateExpires</key>
-						<string>13/07/27</string>
+						<string>22/07/27</string>
 						<key>type</key>
-						<string>Apple Development</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>grpcpp.framework</string>
@@ -144,11 +144,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC</string>
+						<string>B578199D966251D2B6931D37965DBCB31F189939</string>
 						<key>dateExpires</key>
-						<string>13/07/27</string>
+						<string>22/07/27</string>
 						<key>type</key>
-						<string>Apple Development</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>openssl_grpc.framework</string>
@@ -170,18 +170,18 @@
 				<key>com.apple.developer.team-identifier</key>
 				<string>GY4Z97VQ6K</string>
 				<key>get-task-allow</key>
-				<true/>
+				<false/>
 			</dict>
 			<key>name</key>
 			<string>FleetInvoice.app</string>
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>fcef7918-5912-4292-bf58-1505c7be5298</string>
+				<string>f591757f-c4e5-479d-929b-821134599d15</string>
 				<key>dateExpires</key>
 				<string>22/07/27</string>
 				<key>name</key>
-				<string>iOS Team Provisioning Profile: *</string>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.vtltranstech.fleetinvoice</string>
 			</dict>
 			<key>team</key>
 			<dict>
