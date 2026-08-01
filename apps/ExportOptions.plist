@@ -7,11 +7,11 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://vtltransllc.com/apps/vtltransllc.ipa</string>
+		<string>https://www.vtltransllc.com/apps/fleetinvoice.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://vtltransllc.com/apps/display-image.png</string>
+		<string>https://www.vtltransllc.com/apps/display-image.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://vtltransllc.com/apps/full-size-image.png</string>
+		<string>https://www.vtltransllc.com/apps/full-size-image.png</string>
 	</dict>
 	<key>method</key>
 	<string>debugging</string>

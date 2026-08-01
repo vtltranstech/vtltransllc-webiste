@@ -1,366 +1,366 @@
-2026-08-01 04:11:53 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x9c2a08f00; archive(resolved)="<IDEArchive: 0x9f2df7db0>", distributionTask(resolved)="2", distributionDestination(resolved)="1", distributionMethod(resolved)="<IDEDistributionMethodDevelopmentSigned: 0x9d1efeed0>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0x9cbeb49c0; teamID='GY4Z97VQ6K', teamName='SIDHU JAGDEEP SINGH', teamType='Individual', username='vtltranstech@gmail.com', isFreeProvisioningTeam='0'>">
+2026-08-01 04:42:44 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x9c2affc00; archive(resolved)="<IDEArchive: 0x9f2df7db0>", distributionTask(resolved)="2", distributionDestination(resolved)="1", distributionMethod(resolved)="<IDEDistributionMethodDevelopmentSigned: 0x9d1efeed0>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0x9cbeb49c0; teamID='GY4Z97VQ6K', teamName='SIDHU JAGDEEP SINGH', teamType='Individual', username='vtltranstech@gmail.com', isFreeProvisioningTeam='0'>">
 	Chain (15, self inclusive):
-	<IDEDistributionProcessingPipelineContext: 0x9c2a08f00; archive = "<IDEArchive: 0x9f2df7db0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x9d1efeed0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x9cbeb49c0; teamID='GY4Z97VQ6K', teamName='SIDHU JAGDEEP SINGH', teamType='Individual', username='vtltranstech@gmail.com', isFreeProvisioningTeam='0'>">
-	<IDEDistributionProcessingPipelineContext: 0x9c2a0a700; archive = "<IDEArchive: 0x9f2df7db0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x9d1efeed0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x9cbeb49c0; teamID='GY4Z97VQ6K', teamName='SIDHU JAGDEEP SINGH', teamType='Individual', username='vtltranstech@gmail.com', isFreeProvisioningTeam='0'>">
-	<IDEDistributionContext: 0x9f9209400; archive = "<IDEArchive: 0x9f2df7db0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x9d1efeed0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x9cbeb49c0; teamID='GY4Z97VQ6K', teamName='SIDHU JAGDEEP SINGH', teamType='Individual', username='vtltranstech@gmail.com', isFreeProvisioningTeam='0'>">
-	<IDEDistributionContext: 0x9f06f5b80; archive = "<IDEArchive: 0x9f2df7db0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x9d1efeed0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x9cbeb49c0; teamID='GY4Z97VQ6K', teamName='SIDHU JAGDEEP SINGH', teamType='Individual', username='vtltranstech@gmail.com', isFreeProvisioningTeam='0'>">
-	<IDEDistributionContext: 0x9f8868a00; archive = "<IDEArchive: 0x9f2df7db0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x9d1efeed0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x9cbeb49c0; teamID='GY4Z97VQ6K', teamName='SIDHU JAGDEEP SINGH', teamType='Individual', username='vtltranstech@gmail.com', isFreeProvisioningTeam='0'>">
-	<IDEDistributionContext: 0x9f9249180; archive = "<IDEArchive: 0x9f2df7db0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x9d1efeed0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x9cbeb49c0; teamID='GY4Z97VQ6K', teamName='SIDHU JAGDEEP SINGH', teamType='Individual', username='vtltranstech@gmail.com', isFreeProvisioningTeam='0'>">
-	<IDEDistributionContext: 0x9f88bfc00; archive = "<IDEArchive: 0x9f2df7db0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x9d1efeed0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x9cbeb49c0; teamID='GY4Z97VQ6K', teamName='SIDHU JAGDEEP SINGH', teamType='Individual', username='vtltranstech@gmail.com', isFreeProvisioningTeam='0'>">
-	<IDEDistributionContext: 0x9f9208f00; archive = "<IDEArchive: 0x9f2df7db0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x9d1efeed0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x9cbeb49c0; teamID='GY4Z97VQ6K', teamName='SIDHU JAGDEEP SINGH', teamType='Individual', username='vtltranstech@gmail.com', isFreeProvisioningTeam='0'>">
-	<IDEDistributionContext: 0x9f88c3700; archive = "<IDEArchive: 0x9f2df7db0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x9d1efeed0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x9cbeb49c0; teamID='GY4Z97VQ6K', teamName='SIDHU JAGDEEP SINGH', teamType='Individual', username='vtltranstech@gmail.com', isFreeProvisioningTeam='0'>">
-	<IDEDistributionContext: 0x9f88c2800; archive = "<IDEArchive: 0x9f2df7db0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x9d1efeed0>", team="(null)">
-	<IDEDistributionContext: 0x9f88c0a00; archive = "<IDEArchive: 0x9f2df7db0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x9d1efeed0>", team="(null)">
-	<IDEDistributionContext: 0x9f88c3980; archive = "<IDEArchive: 0x9f2df7db0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x9d1efeed0>", team="(null)">
-	<IDEDistributionContext: 0x9f9208c80; archive = "<IDEArchive: 0x9f2df7db0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x9d1efeed0>", team="(null)">
-	<IDEDistributionContext: 0x9f88be080; archive = "<IDEArchive: 0x9f2df7db0>", distributionMethod="(null)", team="(null)">
-	<IDEDistributionContext: 0x9f88bdb80; archive = "<IDEArchive: 0x9f2df7db0>", distributionMethod="(null)", team="(null)">
-</IDEDistributionProcessingPipelineContext: 0x9c2a08f00>
-2026-08-01 04:11:53 +0000  Processing step: IDEDistributionCreateDestRootStep
-2026-08-01 04:11:53 +0000  Processing step: IDEDistributionCopyItemStep
-2026-08-01 04:11:53 +0000  Running /usr/bin/ditto '-V' '/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app' '/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~eYLuVQ/Root/Payload/FleetInvoice.app'
-2026-08-01 04:11:53 +0000  >>> Copying /Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app 
-2026-08-01 04:11:53 +0000  copying file ./_CodeSignature/CodeResources ... 
-2026-08-01 04:11:53 +0000  21483 bytes for ./_CodeSignature/CodeResources
-2026-08-01 04:11:53 +0000  copying file ./Firebase_FirebaseCore.bundle/PrivacyInfo.xcprivacy ... 
-2026-08-01 04:11:53 +0000  855 bytes for ./Firebase_FirebaseCore.bundle/PrivacyInfo.xcprivacy
-2026-08-01 04:11:53 +0000  copying file ./Firebase_FirebaseCore.bundle/Info.plist ... 
-2026-08-01 04:11:53 +0000  695 bytes for ./Firebase_FirebaseCore.bundle/Info.plist
-2026-08-01 04:11:53 +0000  copying file ./gRPC_grpcppWrapper.bundle/PrivacyInfo.xcprivacy ... 
-2026-08-01 04:11:53 +0000  817 bytes for ./gRPC_grpcppWrapper.bundle/PrivacyInfo.xcprivacy
-2026-08-01 04:11:53 +0000  copying file ./gRPC_grpcppWrapper.bundle/Info.plist ... 
-2026-08-01 04:11:53 +0000  688 bytes for ./gRPC_grpcppWrapper.bundle/Info.plist
-2026-08-01 04:11:53 +0000  copying file ./GTMSessionFetcher_GTMSessionFetcherCore.bundle/PrivacyInfo.xcprivacy ... 
-2026-08-01 04:11:53 +0000  598 bytes for ./GTMSessionFetcher_GTMSessionFetcherCore.bundle/PrivacyInfo.xcprivacy
-2026-08-01 04:11:53 +0000  copying file ./GTMSessionFetcher_GTMSessionFetcherCore.bundle/Info.plist ... 
-2026-08-01 04:11:53 +0000  725 bytes for ./GTMSessionFetcher_GTMSessionFetcherCore.bundle/Info.plist
-2026-08-01 04:11:53 +0000  copying file ./leveldb_leveldb.bundle/PrivacyInfo.xcprivacy ... 
-2026-08-01 04:11:53 +0000  856 bytes for ./leveldb_leveldb.bundle/PrivacyInfo.xcprivacy
-2026-08-01 04:11:53 +0000  copying file ./leveldb_leveldb.bundle/Info.plist ... 
-2026-08-01 04:11:53 +0000  675 bytes for ./leveldb_leveldb.bundle/Info.plist
-2026-08-01 04:11:53 +0000  copying file ./FleetInvoice ... 
-2026-08-01 04:11:53 +0000  10912048 bytes for ./FleetInvoice
-2026-08-01 04:11:53 +0000  copying file ./nanopb_nanopb.bundle/PrivacyInfo.xcprivacy ... 
-2026-08-01 04:11:53 +0000  374 bytes for ./nanopb_nanopb.bundle/PrivacyInfo.xcprivacy
-2026-08-01 04:11:53 +0000  copying file ./nanopb_nanopb.bundle/Info.plist ... 
-2026-08-01 04:11:53 +0000  669 bytes for ./nanopb_nanopb.bundle/Info.plist
-2026-08-01 04:11:53 +0000  copying file ./AppIcon60x60@2x.png ... 
-2026-08-01 04:11:53 +0000  3836 bytes for ./AppIcon60x60@2x.png
-2026-08-01 04:11:53 +0000  copying file ./GoogleUtilities_GoogleUtilities-AppDelegateSwizzler.bundle/PrivacyInfo.xcprivacy ... 
-2026-08-01 04:11:53 +0000  478 bytes for ./GoogleUtilities_GoogleUtilities-AppDelegateSwizzler.bundle/PrivacyInfo.xcprivacy
-2026-08-01 04:11:53 +0000  copying file ./GoogleUtilities_GoogleUtilities-AppDelegateSwizzler.bundle/Info.plist ... 
-2026-08-01 04:11:53 +0000  747 bytes for ./GoogleUtilities_GoogleUtilities-AppDelegateSwizzler.bundle/Info.plist
-2026-08-01 04:11:53 +0000  copying file ./GoogleUtilities_GoogleUtilities-NSData.bundle/PrivacyInfo.xcprivacy ... 
-2026-08-01 04:11:53 +0000  478 bytes for ./GoogleUtilities_GoogleUtilities-NSData.bundle/PrivacyInfo.xcprivacy
-2026-08-01 04:11:53 +0000  copying file ./GoogleUtilities_GoogleUtilities-NSData.bundle/Info.plist ... 
-2026-08-01 04:11:53 +0000  721 bytes for ./GoogleUtilities_GoogleUtilities-NSData.bundle/Info.plist
-2026-08-01 04:11:53 +0000  copying file ./gRPC_grpcWrapper.bundle/PrivacyInfo.xcprivacy ... 
-2026-08-01 04:11:53 +0000  817 bytes for ./gRPC_grpcWrapper.bundle/PrivacyInfo.xcprivacy
-2026-08-01 04:11:53 +0000  copying file ./gRPC_grpcWrapper.bundle/Info.plist ... 
-2026-08-01 04:11:53 +0000  684 bytes for ./gRPC_grpcWrapper.bundle/Info.plist
-2026-08-01 04:11:53 +0000  copying file ./Firebase_FirebaseCoreInternal.bundle/PrivacyInfo.xcprivacy ... 
-2026-08-01 04:11:53 +0000  855 bytes for ./Firebase_FirebaseCoreInternal.bundle/PrivacyInfo.xcprivacy
-2026-08-01 04:11:53 +0000  copying file ./Firebase_FirebaseCoreInternal.bundle/Info.plist ... 
-2026-08-01 04:11:53 +0000  711 bytes for ./Firebase_FirebaseCoreInternal.bundle/Info.plist
-2026-08-01 04:11:53 +0000  copying file ./Firebase_FirebaseAuth.bundle/PrivacyInfo.xcprivacy ... 
-2026-08-01 04:11:53 +0000  2102 bytes for ./Firebase_FirebaseAuth.bundle/PrivacyInfo.xcprivacy
-2026-08-01 04:11:53 +0000  copying file ./Firebase_FirebaseAuth.bundle/Info.plist ... 
-2026-08-01 04:11:53 +0000  695 bytes for ./Firebase_FirebaseAuth.bundle/Info.plist
-2026-08-01 04:11:53 +0000  copying file ./GoogleUtilities_GoogleUtilities-Logger.bundle/PrivacyInfo.xcprivacy ... 
-2026-08-01 04:11:53 +0000  478 bytes for ./GoogleUtilities_GoogleUtilities-Logger.bundle/PrivacyInfo.xcprivacy
-2026-08-01 04:11:53 +0000  copying file ./GoogleUtilities_GoogleUtilities-Logger.bundle/Info.plist ... 
-2026-08-01 04:11:53 +0000  721 bytes for ./GoogleUtilities_GoogleUtilities-Logger.bundle/Info.plist
-2026-08-01 04:11:53 +0000  copying file ./GoogleUtilities_GoogleUtilities-Reachability.bundle/PrivacyInfo.xcprivacy ... 
-2026-08-01 04:11:53 +0000  478 bytes for ./GoogleUtilities_GoogleUtilities-Reachability.bundle/PrivacyInfo.xcprivacy
-2026-08-01 04:11:53 +0000  copying file ./GoogleUtilities_GoogleUtilities-Reachability.bundle/Info.plist ... 
-2026-08-01 04:11:53 +0000  733 bytes for ./GoogleUtilities_GoogleUtilities-Reachability.bundle/Info.plist
-2026-08-01 04:11:53 +0000  copying file ./Firebase_FirebaseFirestore.bundle/PrivacyInfo.xcprivacy ... 
-2026-08-01 04:11:53 +0000  1105 bytes for ./Firebase_FirebaseFirestore.bundle/PrivacyInfo.xcprivacy
-2026-08-01 04:11:53 +0000  copying file ./Firebase_FirebaseFirestore.bundle/Info.plist ... 
-2026-08-01 04:11:53 +0000  705 bytes for ./Firebase_FirebaseFirestore.bundle/Info.plist
-2026-08-01 04:11:53 +0000  copying file ./GoogleService-Info.plist ... 
-2026-08-01 04:11:53 +0000  517 bytes for ./GoogleService-Info.plist
-2026-08-01 04:11:53 +0000  copying file ./gRPC_opensslWrapper.bundle/PrivacyInfo.xcprivacy ... 
-2026-08-01 04:11:53 +0000  817 bytes for ./gRPC_opensslWrapper.bundle/PrivacyInfo.xcprivacy
-2026-08-01 04:11:53 +0000  copying file ./gRPC_opensslWrapper.bundle/Info.plist ... 
-2026-08-01 04:11:53 +0000  690 bytes for ./gRPC_opensslWrapper.bundle/Info.plist
-2026-08-01 04:11:53 +0000  copying file ./Promises_FBLPromises.bundle/PrivacyInfo.xcprivacy ... 
-2026-08-01 04:11:53 +0000  373 bytes for ./Promises_FBLPromises.bundle/PrivacyInfo.xcprivacy
-2026-08-01 04:11:53 +0000  copying file ./Promises_FBLPromises.bundle/Info.plist ... 
-2026-08-01 04:11:53 +0000  685 bytes for ./Promises_FBLPromises.bundle/Info.plist
-2026-08-01 04:11:53 +0000  copying file ./GoogleUtilities_GoogleUtilities-Network.bundle/PrivacyInfo.xcprivacy ... 
-2026-08-01 04:11:53 +0000  856 bytes for ./GoogleUtilities_GoogleUtilities-Network.bundle/PrivacyInfo.xcprivacy
-2026-08-01 04:11:53 +0000  copying file ./GoogleUtilities_GoogleUtilities-Network.bundle/Info.plist ... 
-2026-08-01 04:11:53 +0000  723 bytes for ./GoogleUtilities_GoogleUtilities-Network.bundle/Info.plist
-2026-08-01 04:11:53 +0000  copying file ./Assets.car ... 
-2026-08-01 04:11:53 +0000  33560 bytes for ./Assets.car
-2026-08-01 04:11:53 +0000  copying file ./AppIcon76x76@2x~ipad.png ... 
-2026-08-01 04:11:53 +0000  4562 bytes for ./AppIcon76x76@2x~ipad.png
-2026-08-01 04:11:53 +0000  copying file ./Firebase_FirebaseCoreExtension.bundle/PrivacyInfo.xcprivacy ... 
-2026-08-01 04:11:53 +0000  478 bytes for ./Firebase_FirebaseCoreExtension.bundle/PrivacyInfo.xcprivacy
-2026-08-01 04:11:53 +0000  copying file ./Firebase_FirebaseCoreExtension.bundle/Info.plist ... 
-2026-08-01 04:11:53 +0000  713 bytes for ./Firebase_FirebaseCoreExtension.bundle/Info.plist
-2026-08-01 04:11:53 +0000  copying file ./GoogleUtilities_GoogleUtilities-Environment.bundle/PrivacyInfo.xcprivacy ... 
-2026-08-01 04:11:53 +0000  911 bytes for ./GoogleUtilities_GoogleUtilities-Environment.bundle/PrivacyInfo.xcprivacy
-2026-08-01 04:11:53 +0000  copying file ./GoogleUtilities_GoogleUtilities-Environment.bundle/Info.plist ... 
-2026-08-01 04:11:53 +0000  731 bytes for ./GoogleUtilities_GoogleUtilities-Environment.bundle/Info.plist
-2026-08-01 04:11:53 +0000  copying file ./Frameworks/grpcpp.framework/_CodeSignature/CodeResources ... 
-2026-08-01 04:11:53 +0000  2296 bytes for ./Frameworks/grpcpp.framework/_CodeSignature/CodeResources
-2026-08-01 04:11:53 +0000  copying file ./Frameworks/grpcpp.framework/grpcpp ... 
-2026-08-01 04:11:53 +0000  51376 bytes for ./Frameworks/grpcpp.framework/grpcpp
-2026-08-01 04:11:53 +0000  copying file ./Frameworks/grpcpp.framework/grpcpp.bundle/PrivacyInfo.xcprivacy ... 
-2026-08-01 04:11:53 +0000  817 bytes for ./Frameworks/grpcpp.framework/grpcpp.bundle/PrivacyInfo.xcprivacy
-2026-08-01 04:11:53 +0000  copying file ./Frameworks/grpcpp.framework/grpcpp.bundle/Info.plist ... 
-2026-08-01 04:11:53 +0000  759 bytes for ./Frameworks/grpcpp.framework/grpcpp.bundle/Info.plist
-2026-08-01 04:11:53 +0000  copying file ./Frameworks/grpcpp.framework/Info.plist ... 
-2026-08-01 04:11:53 +0000  1509 bytes for ./Frameworks/grpcpp.framework/Info.plist
-2026-08-01 04:11:53 +0000  copying file ./Frameworks/FirebaseFirestoreInternal.framework/_CodeSignature/CodeResources ... 
-2026-08-01 04:11:53 +0000  2404 bytes for ./Frameworks/FirebaseFirestoreInternal.framework/_CodeSignature/CodeResources
-2026-08-01 04:11:53 +0000  copying file ./Frameworks/FirebaseFirestoreInternal.framework/FirebaseFirestoreInternal ... 
-2026-08-01 04:11:53 +0000  51408 bytes for ./Frameworks/FirebaseFirestoreInternal.framework/FirebaseFirestoreInternal
-2026-08-01 04:11:53 +0000  copying file ./Frameworks/FirebaseFirestoreInternal.framework/FirebaseFirestoreInternal_Privacy.bundle/PrivacyInfo.xcprivacy ... 
-2026-08-01 04:11:53 +0000  1105 bytes for ./Frameworks/FirebaseFirestoreInternal.framework/FirebaseFirestoreInternal_Privacy.bundle/PrivacyInfo.xcprivacy
-2026-08-01 04:11:53 +0000  copying file ./Frameworks/FirebaseFirestoreInternal.framework/FirebaseFirestoreInternal_Privacy.bundle/Info.plist ... 
-2026-08-01 04:11:53 +0000  816 bytes for ./Frameworks/FirebaseFirestoreInternal.framework/FirebaseFirestoreInternal_Privacy.bundle/Info.plist
-2026-08-01 04:11:53 +0000  copying file ./Frameworks/FirebaseFirestoreInternal.framework/Info.plist ... 
-2026-08-01 04:11:53 +0000  1567 bytes for ./Frameworks/FirebaseFirestoreInternal.framework/Info.plist
-2026-08-01 04:11:53 +0000  copying file ./Frameworks/grpc.framework/_CodeSignature/CodeResources ... 
-2026-08-01 04:11:53 +0000  2288 bytes for ./Frameworks/grpc.framework/_CodeSignature/CodeResources
-2026-08-01 04:11:53 +0000  copying file ./Frameworks/grpc.framework/grpc ... 
-2026-08-01 04:11:53 +0000  51376 bytes for ./Frameworks/grpc.framework/grpc
-2026-08-01 04:11:53 +0000  copying file ./Frameworks/grpc.framework/grpc.bundle/PrivacyInfo.xcprivacy ... 
-2026-08-01 04:11:53 +0000  817 bytes for ./Frameworks/grpc.framework/grpc.bundle/PrivacyInfo.xcprivacy
-2026-08-01 04:11:53 +0000  copying file ./Frameworks/grpc.framework/grpc.bundle/Info.plist ... 
-2026-08-01 04:11:53 +0000  755 bytes for ./Frameworks/grpc.framework/grpc.bundle/Info.plist
-2026-08-01 04:11:53 +0000  copying file ./Frameworks/grpc.framework/Info.plist ... 
-2026-08-01 04:11:53 +0000  1503 bytes for ./Frameworks/grpc.framework/Info.plist
-2026-08-01 04:11:53 +0000  copying file ./Frameworks/openssl_grpc.framework/_CodeSignature/CodeResources ... 
-2026-08-01 04:11:53 +0000  2320 bytes for ./Frameworks/openssl_grpc.framework/_CodeSignature/CodeResources
-2026-08-01 04:11:53 +0000  copying file ./Frameworks/openssl_grpc.framework/openssl_grpc ... 
-2026-08-01 04:11:53 +0000  51392 bytes for ./Frameworks/openssl_grpc.framework/openssl_grpc
-2026-08-01 04:11:53 +0000  copying file ./Frameworks/openssl_grpc.framework/openssl_grpc.bundle/PrivacyInfo.xcprivacy ... 
-2026-08-01 04:11:53 +0000  817 bytes for ./Frameworks/openssl_grpc.framework/openssl_grpc.bundle/PrivacyInfo.xcprivacy
-2026-08-01 04:11:53 +0000  copying file ./Frameworks/openssl_grpc.framework/openssl_grpc.bundle/Info.plist ... 
-2026-08-01 04:11:53 +0000  771 bytes for ./Frameworks/openssl_grpc.framework/openssl_grpc.bundle/Info.plist
-2026-08-01 04:11:53 +0000  copying file ./Frameworks/openssl_grpc.framework/Info.plist ... 
-2026-08-01 04:11:53 +0000  1527 bytes for ./Frameworks/openssl_grpc.framework/Info.plist
-2026-08-01 04:11:53 +0000  copying file ./Frameworks/absl.framework/_CodeSignature/CodeResources ... 
-2026-08-01 04:11:53 +0000  2308 bytes for ./Frameworks/absl.framework/_CodeSignature/CodeResources
-2026-08-01 04:11:53 +0000  copying file ./Frameworks/absl.framework/absl ... 
-2026-08-01 04:11:53 +0000  51376 bytes for ./Frameworks/absl.framework/absl
-2026-08-01 04:11:53 +0000  copying file ./Frameworks/absl.framework/xcprivacy.bundle/PrivacyInfo.xcprivacy ... 
-2026-08-01 04:11:53 +0000  373 bytes for ./Frameworks/absl.framework/xcprivacy.bundle/PrivacyInfo.xcprivacy
-2026-08-01 04:11:53 +0000  copying file ./Frameworks/absl.framework/xcprivacy.bundle/Info.plist ... 
-2026-08-01 04:11:53 +0000  769 bytes for ./Frameworks/absl.framework/xcprivacy.bundle/Info.plist
-2026-08-01 04:11:53 +0000  copying file ./Frameworks/absl.framework/Info.plist ... 
-2026-08-01 04:11:53 +0000  1508 bytes for ./Frameworks/absl.framework/Info.plist
-2026-08-01 04:11:53 +0000  copying file ./embedded.mobileprovision ... 
-2026-08-01 04:11:53 +0000  12238 bytes for ./embedded.mobileprovision
-2026-08-01 04:11:53 +0000  copying file ./Info.plist ... 
-2026-08-01 04:11:53 +0000  1417 bytes for ./Info.plist
-2026-08-01 04:11:53 +0000  copying file ./abseil_abslWrapper.bundle/PrivacyInfo.xcprivacy ... 
-2026-08-01 04:11:53 +0000  380 bytes for ./abseil_abslWrapper.bundle/PrivacyInfo.xcprivacy
-2026-08-01 04:11:53 +0000  copying file ./abseil_abslWrapper.bundle/Info.plist ... 
-2026-08-01 04:11:53 +0000  692 bytes for ./abseil_abslWrapper.bundle/Info.plist
-2026-08-01 04:11:53 +0000  copying file ./PkgInfo ... 
-2026-08-01 04:11:53 +0000  8 bytes for ./PkgInfo
-2026-08-01 04:11:53 +0000  /usr/bin/ditto exited with 0
-2026-08-01 04:11:53 +0000  Processing step: IDEDistributionEmbedProfileStep
-2026-08-01 04:11:53 +0000  Skipping profile for item: <IDEDistributionItem: 0x9c2872940; bundleID='org.cocoapods.FirebaseFirestoreInternal', path='<DVTFilePath:0x9e3cfd680:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/FirebaseFirestoreInternal.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x9c2872880; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x9f9289080; name='Apple Development: vtltranstech@gmail.com (393RGP23Q4)', hash='E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC', serialNumber='7C24C38E89B2EF37F92CAACADF147961', certificateKinds='(
+	<IDEDistributionProcessingPipelineContext: 0x9c2affc00; archive = "<IDEArchive: 0x9f2df7db0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x9d1efeed0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x9cbeb49c0; teamID='GY4Z97VQ6K', teamName='SIDHU JAGDEEP SINGH', teamType='Individual', username='vtltranstech@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionProcessingPipelineContext: 0x9c2aff900; archive = "<IDEArchive: 0x9f2df7db0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x9d1efeed0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x9cbeb49c0; teamID='GY4Z97VQ6K', teamName='SIDHU JAGDEEP SINGH', teamType='Individual', username='vtltranstech@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x9f922a080; archive = "<IDEArchive: 0x9f2df7db0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x9d1efeed0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x9cbeb49c0; teamID='GY4Z97VQ6K', teamName='SIDHU JAGDEEP SINGH', teamType='Individual', username='vtltranstech@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x9f924b480; archive = "<IDEArchive: 0x9f2df7db0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x9d1efeed0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x9cbeb49c0; teamID='GY4Z97VQ6K', teamName='SIDHU JAGDEEP SINGH', teamType='Individual', username='vtltranstech@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x9f2e09900; archive = "<IDEArchive: 0x9f2df7db0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x9d1efeed0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x9cbeb49c0; teamID='GY4Z97VQ6K', teamName='SIDHU JAGDEEP SINGH', teamType='Individual', username='vtltranstech@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x9f924b980; archive = "<IDEArchive: 0x9f2df7db0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x9d1efeed0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x9cbeb49c0; teamID='GY4Z97VQ6K', teamName='SIDHU JAGDEEP SINGH', teamType='Individual', username='vtltranstech@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x9f88b9400; archive = "<IDEArchive: 0x9f2df7db0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x9d1efeed0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x9cbeb49c0; teamID='GY4Z97VQ6K', teamName='SIDHU JAGDEEP SINGH', teamType='Individual', username='vtltranstech@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x9f88ba580; archive = "<IDEArchive: 0x9f2df7db0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x9d1efeed0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x9cbeb49c0; teamID='GY4Z97VQ6K', teamName='SIDHU JAGDEEP SINGH', teamType='Individual', username='vtltranstech@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x9f88b9e00; archive = "<IDEArchive: 0x9f2df7db0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x9d1efeed0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x9cbeb49c0; teamID='GY4Z97VQ6K', teamName='SIDHU JAGDEEP SINGH', teamType='Individual', username='vtltranstech@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x9f88b9900; archive = "<IDEArchive: 0x9f2df7db0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x9d1efeed0>", team="(null)">
+	<IDEDistributionContext: 0x9f88b9680; archive = "<IDEArchive: 0x9f2df7db0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x9d1efeed0>", team="(null)">
+	<IDEDistributionContext: 0x9f88ba800; archive = "<IDEArchive: 0x9f2df7db0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x9d1efeed0>", team="(null)">
+	<IDEDistributionContext: 0x9f88ba080; archive = "<IDEArchive: 0x9f2df7db0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x9d1efeed0>", team="(null)">
+	<IDEDistributionContext: 0x9f922b980; archive = "<IDEArchive: 0x9f2df7db0>", distributionMethod="(null)", team="(null)">
+	<IDEDistributionContext: 0x9f922bc00; archive = "<IDEArchive: 0x9f2df7db0>", distributionMethod="(null)", team="(null)">
+</IDEDistributionProcessingPipelineContext: 0x9c2affc00>
+2026-08-01 04:42:44 +0000  Processing step: IDEDistributionCreateDestRootStep
+2026-08-01 04:42:44 +0000  Processing step: IDEDistributionCopyItemStep
+2026-08-01 04:42:44 +0000  Running /usr/bin/ditto '-V' '/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app' '/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~i5Z6rt/Root/Payload/FleetInvoice.app'
+2026-08-01 04:42:44 +0000  >>> Copying /Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app 
+2026-08-01 04:42:44 +0000  copying file ./_CodeSignature/CodeResources ... 
+2026-08-01 04:42:44 +0000  21483 bytes for ./_CodeSignature/CodeResources
+2026-08-01 04:42:44 +0000  copying file ./Firebase_FirebaseCore.bundle/PrivacyInfo.xcprivacy ... 
+2026-08-01 04:42:44 +0000  855 bytes for ./Firebase_FirebaseCore.bundle/PrivacyInfo.xcprivacy
+2026-08-01 04:42:44 +0000  copying file ./Firebase_FirebaseCore.bundle/Info.plist ... 
+2026-08-01 04:42:44 +0000  695 bytes for ./Firebase_FirebaseCore.bundle/Info.plist
+2026-08-01 04:42:44 +0000  copying file ./gRPC_grpcppWrapper.bundle/PrivacyInfo.xcprivacy ... 
+2026-08-01 04:42:44 +0000  817 bytes for ./gRPC_grpcppWrapper.bundle/PrivacyInfo.xcprivacy
+2026-08-01 04:42:44 +0000  copying file ./gRPC_grpcppWrapper.bundle/Info.plist ... 
+2026-08-01 04:42:44 +0000  688 bytes for ./gRPC_grpcppWrapper.bundle/Info.plist
+2026-08-01 04:42:44 +0000  copying file ./GTMSessionFetcher_GTMSessionFetcherCore.bundle/PrivacyInfo.xcprivacy ... 
+2026-08-01 04:42:44 +0000  598 bytes for ./GTMSessionFetcher_GTMSessionFetcherCore.bundle/PrivacyInfo.xcprivacy
+2026-08-01 04:42:44 +0000  copying file ./GTMSessionFetcher_GTMSessionFetcherCore.bundle/Info.plist ... 
+2026-08-01 04:42:44 +0000  725 bytes for ./GTMSessionFetcher_GTMSessionFetcherCore.bundle/Info.plist
+2026-08-01 04:42:44 +0000  copying file ./leveldb_leveldb.bundle/PrivacyInfo.xcprivacy ... 
+2026-08-01 04:42:44 +0000  856 bytes for ./leveldb_leveldb.bundle/PrivacyInfo.xcprivacy
+2026-08-01 04:42:44 +0000  copying file ./leveldb_leveldb.bundle/Info.plist ... 
+2026-08-01 04:42:44 +0000  675 bytes for ./leveldb_leveldb.bundle/Info.plist
+2026-08-01 04:42:44 +0000  copying file ./FleetInvoice ... 
+2026-08-01 04:42:44 +0000  10912048 bytes for ./FleetInvoice
+2026-08-01 04:42:44 +0000  copying file ./nanopb_nanopb.bundle/PrivacyInfo.xcprivacy ... 
+2026-08-01 04:42:44 +0000  374 bytes for ./nanopb_nanopb.bundle/PrivacyInfo.xcprivacy
+2026-08-01 04:42:44 +0000  copying file ./nanopb_nanopb.bundle/Info.plist ... 
+2026-08-01 04:42:44 +0000  669 bytes for ./nanopb_nanopb.bundle/Info.plist
+2026-08-01 04:42:44 +0000  copying file ./AppIcon60x60@2x.png ... 
+2026-08-01 04:42:44 +0000  3836 bytes for ./AppIcon60x60@2x.png
+2026-08-01 04:42:44 +0000  copying file ./GoogleUtilities_GoogleUtilities-AppDelegateSwizzler.bundle/PrivacyInfo.xcprivacy ... 
+2026-08-01 04:42:44 +0000  478 bytes for ./GoogleUtilities_GoogleUtilities-AppDelegateSwizzler.bundle/PrivacyInfo.xcprivacy
+2026-08-01 04:42:44 +0000  copying file ./GoogleUtilities_GoogleUtilities-AppDelegateSwizzler.bundle/Info.plist ... 
+2026-08-01 04:42:44 +0000  747 bytes for ./GoogleUtilities_GoogleUtilities-AppDelegateSwizzler.bundle/Info.plist
+2026-08-01 04:42:44 +0000  copying file ./GoogleUtilities_GoogleUtilities-NSData.bundle/PrivacyInfo.xcprivacy ... 
+2026-08-01 04:42:44 +0000  478 bytes for ./GoogleUtilities_GoogleUtilities-NSData.bundle/PrivacyInfo.xcprivacy
+2026-08-01 04:42:44 +0000  copying file ./GoogleUtilities_GoogleUtilities-NSData.bundle/Info.plist ... 
+2026-08-01 04:42:44 +0000  721 bytes for ./GoogleUtilities_GoogleUtilities-NSData.bundle/Info.plist
+2026-08-01 04:42:44 +0000  copying file ./gRPC_grpcWrapper.bundle/PrivacyInfo.xcprivacy ... 
+2026-08-01 04:42:44 +0000  817 bytes for ./gRPC_grpcWrapper.bundle/PrivacyInfo.xcprivacy
+2026-08-01 04:42:44 +0000  copying file ./gRPC_grpcWrapper.bundle/Info.plist ... 
+2026-08-01 04:42:44 +0000  684 bytes for ./gRPC_grpcWrapper.bundle/Info.plist
+2026-08-01 04:42:44 +0000  copying file ./Firebase_FirebaseCoreInternal.bundle/PrivacyInfo.xcprivacy ... 
+2026-08-01 04:42:44 +0000  855 bytes for ./Firebase_FirebaseCoreInternal.bundle/PrivacyInfo.xcprivacy
+2026-08-01 04:42:44 +0000  copying file ./Firebase_FirebaseCoreInternal.bundle/Info.plist ... 
+2026-08-01 04:42:44 +0000  711 bytes for ./Firebase_FirebaseCoreInternal.bundle/Info.plist
+2026-08-01 04:42:44 +0000  copying file ./Firebase_FirebaseAuth.bundle/PrivacyInfo.xcprivacy ... 
+2026-08-01 04:42:44 +0000  2102 bytes for ./Firebase_FirebaseAuth.bundle/PrivacyInfo.xcprivacy
+2026-08-01 04:42:44 +0000  copying file ./Firebase_FirebaseAuth.bundle/Info.plist ... 
+2026-08-01 04:42:44 +0000  695 bytes for ./Firebase_FirebaseAuth.bundle/Info.plist
+2026-08-01 04:42:44 +0000  copying file ./GoogleUtilities_GoogleUtilities-Logger.bundle/PrivacyInfo.xcprivacy ... 
+2026-08-01 04:42:44 +0000  478 bytes for ./GoogleUtilities_GoogleUtilities-Logger.bundle/PrivacyInfo.xcprivacy
+2026-08-01 04:42:44 +0000  copying file ./GoogleUtilities_GoogleUtilities-Logger.bundle/Info.plist ... 
+2026-08-01 04:42:44 +0000  721 bytes for ./GoogleUtilities_GoogleUtilities-Logger.bundle/Info.plist
+2026-08-01 04:42:44 +0000  copying file ./GoogleUtilities_GoogleUtilities-Reachability.bundle/PrivacyInfo.xcprivacy ... 
+2026-08-01 04:42:44 +0000  478 bytes for ./GoogleUtilities_GoogleUtilities-Reachability.bundle/PrivacyInfo.xcprivacy
+2026-08-01 04:42:44 +0000  copying file ./GoogleUtilities_GoogleUtilities-Reachability.bundle/Info.plist ... 
+2026-08-01 04:42:44 +0000  733 bytes for ./GoogleUtilities_GoogleUtilities-Reachability.bundle/Info.plist
+2026-08-01 04:42:44 +0000  copying file ./Firebase_FirebaseFirestore.bundle/PrivacyInfo.xcprivacy ... 
+2026-08-01 04:42:44 +0000  1105 bytes for ./Firebase_FirebaseFirestore.bundle/PrivacyInfo.xcprivacy
+2026-08-01 04:42:44 +0000  copying file ./Firebase_FirebaseFirestore.bundle/Info.plist ... 
+2026-08-01 04:42:44 +0000  705 bytes for ./Firebase_FirebaseFirestore.bundle/Info.plist
+2026-08-01 04:42:44 +0000  copying file ./GoogleService-Info.plist ... 
+2026-08-01 04:42:44 +0000  517 bytes for ./GoogleService-Info.plist
+2026-08-01 04:42:44 +0000  copying file ./gRPC_opensslWrapper.bundle/PrivacyInfo.xcprivacy ... 
+2026-08-01 04:42:44 +0000  817 bytes for ./gRPC_opensslWrapper.bundle/PrivacyInfo.xcprivacy
+2026-08-01 04:42:44 +0000  copying file ./gRPC_opensslWrapper.bundle/Info.plist ... 
+2026-08-01 04:42:45 +0000  690 bytes for ./gRPC_opensslWrapper.bundle/Info.plist
+2026-08-01 04:42:45 +0000  copying file ./Promises_FBLPromises.bundle/PrivacyInfo.xcprivacy ... 
+2026-08-01 04:42:45 +0000  373 bytes for ./Promises_FBLPromises.bundle/PrivacyInfo.xcprivacy
+2026-08-01 04:42:45 +0000  copying file ./Promises_FBLPromises.bundle/Info.plist ... 
+2026-08-01 04:42:45 +0000  685 bytes for ./Promises_FBLPromises.bundle/Info.plist
+2026-08-01 04:42:45 +0000  copying file ./GoogleUtilities_GoogleUtilities-Network.bundle/PrivacyInfo.xcprivacy ... 
+2026-08-01 04:42:45 +0000  856 bytes for ./GoogleUtilities_GoogleUtilities-Network.bundle/PrivacyInfo.xcprivacy
+2026-08-01 04:42:45 +0000  copying file ./GoogleUtilities_GoogleUtilities-Network.bundle/Info.plist ... 
+2026-08-01 04:42:45 +0000  723 bytes for ./GoogleUtilities_GoogleUtilities-Network.bundle/Info.plist
+2026-08-01 04:42:45 +0000  copying file ./Assets.car ... 
+2026-08-01 04:42:45 +0000  33560 bytes for ./Assets.car
+2026-08-01 04:42:45 +0000  copying file ./AppIcon76x76@2x~ipad.png ... 
+2026-08-01 04:42:45 +0000  4562 bytes for ./AppIcon76x76@2x~ipad.png
+2026-08-01 04:42:45 +0000  copying file ./Firebase_FirebaseCoreExtension.bundle/PrivacyInfo.xcprivacy ... 
+2026-08-01 04:42:45 +0000  478 bytes for ./Firebase_FirebaseCoreExtension.bundle/PrivacyInfo.xcprivacy
+2026-08-01 04:42:45 +0000  copying file ./Firebase_FirebaseCoreExtension.bundle/Info.plist ... 
+2026-08-01 04:42:45 +0000  713 bytes for ./Firebase_FirebaseCoreExtension.bundle/Info.plist
+2026-08-01 04:42:45 +0000  copying file ./GoogleUtilities_GoogleUtilities-Environment.bundle/PrivacyInfo.xcprivacy ... 
+2026-08-01 04:42:45 +0000  911 bytes for ./GoogleUtilities_GoogleUtilities-Environment.bundle/PrivacyInfo.xcprivacy
+2026-08-01 04:42:45 +0000  copying file ./GoogleUtilities_GoogleUtilities-Environment.bundle/Info.plist ... 
+2026-08-01 04:42:45 +0000  731 bytes for ./GoogleUtilities_GoogleUtilities-Environment.bundle/Info.plist
+2026-08-01 04:42:45 +0000  copying file ./Frameworks/grpcpp.framework/_CodeSignature/CodeResources ... 
+2026-08-01 04:42:45 +0000  2296 bytes for ./Frameworks/grpcpp.framework/_CodeSignature/CodeResources
+2026-08-01 04:42:45 +0000  copying file ./Frameworks/grpcpp.framework/grpcpp ... 
+2026-08-01 04:42:45 +0000  51376 bytes for ./Frameworks/grpcpp.framework/grpcpp
+2026-08-01 04:42:45 +0000  copying file ./Frameworks/grpcpp.framework/grpcpp.bundle/PrivacyInfo.xcprivacy ... 
+2026-08-01 04:42:45 +0000  817 bytes for ./Frameworks/grpcpp.framework/grpcpp.bundle/PrivacyInfo.xcprivacy
+2026-08-01 04:42:45 +0000  copying file ./Frameworks/grpcpp.framework/grpcpp.bundle/Info.plist ... 
+2026-08-01 04:42:45 +0000  759 bytes for ./Frameworks/grpcpp.framework/grpcpp.bundle/Info.plist
+2026-08-01 04:42:45 +0000  copying file ./Frameworks/grpcpp.framework/Info.plist ... 
+2026-08-01 04:42:45 +0000  1509 bytes for ./Frameworks/grpcpp.framework/Info.plist
+2026-08-01 04:42:45 +0000  copying file ./Frameworks/FirebaseFirestoreInternal.framework/_CodeSignature/CodeResources ... 
+2026-08-01 04:42:45 +0000  2404 bytes for ./Frameworks/FirebaseFirestoreInternal.framework/_CodeSignature/CodeResources
+2026-08-01 04:42:45 +0000  copying file ./Frameworks/FirebaseFirestoreInternal.framework/FirebaseFirestoreInternal ... 
+2026-08-01 04:42:45 +0000  51408 bytes for ./Frameworks/FirebaseFirestoreInternal.framework/FirebaseFirestoreInternal
+2026-08-01 04:42:45 +0000  copying file ./Frameworks/FirebaseFirestoreInternal.framework/FirebaseFirestoreInternal_Privacy.bundle/PrivacyInfo.xcprivacy ... 
+2026-08-01 04:42:45 +0000  1105 bytes for ./Frameworks/FirebaseFirestoreInternal.framework/FirebaseFirestoreInternal_Privacy.bundle/PrivacyInfo.xcprivacy
+2026-08-01 04:42:45 +0000  copying file ./Frameworks/FirebaseFirestoreInternal.framework/FirebaseFirestoreInternal_Privacy.bundle/Info.plist ... 
+2026-08-01 04:42:45 +0000  816 bytes for ./Frameworks/FirebaseFirestoreInternal.framework/FirebaseFirestoreInternal_Privacy.bundle/Info.plist
+2026-08-01 04:42:45 +0000  copying file ./Frameworks/FirebaseFirestoreInternal.framework/Info.plist ... 
+2026-08-01 04:42:45 +0000  1567 bytes for ./Frameworks/FirebaseFirestoreInternal.framework/Info.plist
+2026-08-01 04:42:45 +0000  copying file ./Frameworks/grpc.framework/_CodeSignature/CodeResources ... 
+2026-08-01 04:42:45 +0000  2288 bytes for ./Frameworks/grpc.framework/_CodeSignature/CodeResources
+2026-08-01 04:42:45 +0000  copying file ./Frameworks/grpc.framework/grpc ... 
+2026-08-01 04:42:45 +0000  51376 bytes for ./Frameworks/grpc.framework/grpc
+2026-08-01 04:42:45 +0000  copying file ./Frameworks/grpc.framework/grpc.bundle/PrivacyInfo.xcprivacy ... 
+2026-08-01 04:42:45 +0000  817 bytes for ./Frameworks/grpc.framework/grpc.bundle/PrivacyInfo.xcprivacy
+2026-08-01 04:42:45 +0000  copying file ./Frameworks/grpc.framework/grpc.bundle/Info.plist ... 
+2026-08-01 04:42:45 +0000  755 bytes for ./Frameworks/grpc.framework/grpc.bundle/Info.plist
+2026-08-01 04:42:45 +0000  copying file ./Frameworks/grpc.framework/Info.plist ... 
+2026-08-01 04:42:45 +0000  1503 bytes for ./Frameworks/grpc.framework/Info.plist
+2026-08-01 04:42:45 +0000  copying file ./Frameworks/openssl_grpc.framework/_CodeSignature/CodeResources ... 
+2026-08-01 04:42:45 +0000  2320 bytes for ./Frameworks/openssl_grpc.framework/_CodeSignature/CodeResources
+2026-08-01 04:42:45 +0000  copying file ./Frameworks/openssl_grpc.framework/openssl_grpc ... 
+2026-08-01 04:42:45 +0000  51392 bytes for ./Frameworks/openssl_grpc.framework/openssl_grpc
+2026-08-01 04:42:45 +0000  copying file ./Frameworks/openssl_grpc.framework/openssl_grpc.bundle/PrivacyInfo.xcprivacy ... 
+2026-08-01 04:42:45 +0000  817 bytes for ./Frameworks/openssl_grpc.framework/openssl_grpc.bundle/PrivacyInfo.xcprivacy
+2026-08-01 04:42:45 +0000  copying file ./Frameworks/openssl_grpc.framework/openssl_grpc.bundle/Info.plist ... 
+2026-08-01 04:42:45 +0000  771 bytes for ./Frameworks/openssl_grpc.framework/openssl_grpc.bundle/Info.plist
+2026-08-01 04:42:45 +0000  copying file ./Frameworks/openssl_grpc.framework/Info.plist ... 
+2026-08-01 04:42:45 +0000  1527 bytes for ./Frameworks/openssl_grpc.framework/Info.plist
+2026-08-01 04:42:45 +0000  copying file ./Frameworks/absl.framework/_CodeSignature/CodeResources ... 
+2026-08-01 04:42:45 +0000  2308 bytes for ./Frameworks/absl.framework/_CodeSignature/CodeResources
+2026-08-01 04:42:45 +0000  copying file ./Frameworks/absl.framework/absl ... 
+2026-08-01 04:42:45 +0000  51376 bytes for ./Frameworks/absl.framework/absl
+2026-08-01 04:42:45 +0000  copying file ./Frameworks/absl.framework/xcprivacy.bundle/PrivacyInfo.xcprivacy ... 
+2026-08-01 04:42:45 +0000  373 bytes for ./Frameworks/absl.framework/xcprivacy.bundle/PrivacyInfo.xcprivacy
+2026-08-01 04:42:45 +0000  copying file ./Frameworks/absl.framework/xcprivacy.bundle/Info.plist ... 
+2026-08-01 04:42:45 +0000  769 bytes for ./Frameworks/absl.framework/xcprivacy.bundle/Info.plist
+2026-08-01 04:42:45 +0000  copying file ./Frameworks/absl.framework/Info.plist ... 
+2026-08-01 04:42:45 +0000  1508 bytes for ./Frameworks/absl.framework/Info.plist
+2026-08-01 04:42:45 +0000  copying file ./embedded.mobileprovision ... 
+2026-08-01 04:42:45 +0000  12238 bytes for ./embedded.mobileprovision
+2026-08-01 04:42:45 +0000  copying file ./Info.plist ... 
+2026-08-01 04:42:45 +0000  1417 bytes for ./Info.plist
+2026-08-01 04:42:45 +0000  copying file ./abseil_abslWrapper.bundle/PrivacyInfo.xcprivacy ... 
+2026-08-01 04:42:45 +0000  380 bytes for ./abseil_abslWrapper.bundle/PrivacyInfo.xcprivacy
+2026-08-01 04:42:45 +0000  copying file ./abseil_abslWrapper.bundle/Info.plist ... 
+2026-08-01 04:42:45 +0000  692 bytes for ./abseil_abslWrapper.bundle/Info.plist
+2026-08-01 04:42:45 +0000  copying file ./PkgInfo ... 
+2026-08-01 04:42:45 +0000  8 bytes for ./PkgInfo
+2026-08-01 04:42:45 +0000  /usr/bin/ditto exited with 0
+2026-08-01 04:42:45 +0000  Processing step: IDEDistributionEmbedProfileStep
+2026-08-01 04:42:45 +0000  Skipping profile for item: <IDEDistributionItem: 0x9c2afbc00; bundleID='org.cocoapods.FirebaseFirestoreInternal', path='<DVTFilePath:0x9e3cfd680:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/FirebaseFirestoreInternal.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x9c2afa880; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x9f927ea00; name='Apple Development: vtltranstech@gmail.com (393RGP23Q4)', hash='E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC', serialNumber='7C24C38E89B2EF37F92CAACADF147961', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
 ), issueDate='2026-07-12 18:51:12 +0000''>', entitlements='(null)', teamID='GY4Z97VQ6K', identifier='org.cocoapods.FirebaseFirestoreInternal', executablePath='<DVTFilePath:0x9f7eb0c40:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/FirebaseFirestoreInternal.framework/FirebaseFirestoreInternal'>', hardenedRuntime='0'>'>
-2026-08-01 04:11:53 +0000  Skipping profile for item: <IDEDistributionItem: 0x9c284f8a0; bundleID='org.cocoapods.absl', path='<DVTFilePath:0x9c47d3b40:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/absl.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x9c2871c80; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x9f9289080; name='Apple Development: vtltranstech@gmail.com (393RGP23Q4)', hash='E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC', serialNumber='7C24C38E89B2EF37F92CAACADF147961', certificateKinds='(
+2026-08-01 04:42:45 +0000  Skipping profile for item: <IDEDistributionItem: 0x9c2afb660; bundleID='org.cocoapods.absl', path='<DVTFilePath:0x9c47d3b40:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/absl.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x9c2af8a80; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x9f927ea00; name='Apple Development: vtltranstech@gmail.com (393RGP23Q4)', hash='E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC', serialNumber='7C24C38E89B2EF37F92CAACADF147961', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
 ), issueDate='2026-07-12 18:51:12 +0000''>', entitlements='(null)', teamID='GY4Z97VQ6K', identifier='org.cocoapods.absl', executablePath='<DVTFilePath:0x9c47d0c60:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/absl.framework/absl'>', hardenedRuntime='0'>'>
-2026-08-01 04:11:53 +0000  Skipping profile for item: <IDEDistributionItem: 0x9c2872580; bundleID='org.cocoapods.grpc', path='<DVTFilePath:0x9c47d05a0:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/grpc.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x9c28711a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x9f9289080; name='Apple Development: vtltranstech@gmail.com (393RGP23Q4)', hash='E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC', serialNumber='7C24C38E89B2EF37F92CAACADF147961', certificateKinds='(
+2026-08-01 04:42:45 +0000  Skipping profile for item: <IDEDistributionItem: 0x9c2afa940; bundleID='org.cocoapods.grpc', path='<DVTFilePath:0x9c47d05a0:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/grpc.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x9c2afa640; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x9f927ea00; name='Apple Development: vtltranstech@gmail.com (393RGP23Q4)', hash='E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC', serialNumber='7C24C38E89B2EF37F92CAACADF147961', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
 ), issueDate='2026-07-12 18:51:12 +0000''>', entitlements='(null)', teamID='GY4Z97VQ6K', identifier='org.cocoapods.grpc', executablePath='<DVTFilePath:0x9c47d35a0:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/grpc.framework/grpc'>', hardenedRuntime='0'>'>
-2026-08-01 04:11:53 +0000  Skipping profile for item: <IDEDistributionItem: 0x9c2872c40; bundleID='org.cocoapods.grpcpp', path='<DVTFilePath:0x9f7eb3410:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/grpcpp.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x9c2872d60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x9f9289080; name='Apple Development: vtltranstech@gmail.com (393RGP23Q4)', hash='E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC', serialNumber='7C24C38E89B2EF37F92CAACADF147961', certificateKinds='(
+2026-08-01 04:42:45 +0000  Skipping profile for item: <IDEDistributionItem: 0x9c2afb2a0; bundleID='org.cocoapods.grpcpp', path='<DVTFilePath:0x9f7eb3410:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/grpcpp.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x9c2afb180; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x9f927ea00; name='Apple Development: vtltranstech@gmail.com (393RGP23Q4)', hash='E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC', serialNumber='7C24C38E89B2EF37F92CAACADF147961', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
 ), issueDate='2026-07-12 18:51:12 +0000''>', entitlements='(null)', teamID='GY4Z97VQ6K', identifier='org.cocoapods.grpcpp', executablePath='<DVTFilePath:0x9c47d2760:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/grpcpp.framework/grpcpp'>', hardenedRuntime='0'>'>
-2026-08-01 04:11:53 +0000  Skipping profile for item: <IDEDistributionItem: 0x9c2871f80; bundleID='org.cocoapods.openssl-grpc', path='<DVTFilePath:0x9f7eb2bc0:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/openssl_grpc.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x9c2871fe0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x9f9289080; name='Apple Development: vtltranstech@gmail.com (393RGP23Q4)', hash='E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC', serialNumber='7C24C38E89B2EF37F92CAACADF147961', certificateKinds='(
+2026-08-01 04:42:45 +0000  Skipping profile for item: <IDEDistributionItem: 0x9c2afb1e0; bundleID='org.cocoapods.openssl-grpc', path='<DVTFilePath:0x9f7eb2bc0:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/openssl_grpc.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x9c2afb120; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x9f927ea00; name='Apple Development: vtltranstech@gmail.com (393RGP23Q4)', hash='E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC', serialNumber='7C24C38E89B2EF37F92CAACADF147961', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
 ), issueDate='2026-07-12 18:51:12 +0000''>', entitlements='(null)', teamID='GY4Z97VQ6K', identifier='org.cocoapods.openssl-grpc', executablePath='<DVTFilePath:0x9c47d3900:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/openssl_grpc.framework/openssl_grpc'>', hardenedRuntime='0'>'>
-2026-08-01 04:11:53 +0000  Processing step: IDEDistributionInfoPlistStep
-2026-08-01 04:11:53 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
-2026-08-01 04:11:53 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
-2026-08-01 04:11:53 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
-2026-08-01 04:11:53 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
-2026-08-01 04:11:53 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
-2026-08-01 04:11:53 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
-2026-08-01 04:11:53 +0000  Processing step: IDEDistributionAppThinningPlistStep
-2026-08-01 04:11:53 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
-2026-08-01 04:11:53 +0000  Processing step: IDEDistributionSymbolsStep
-2026-08-01 04:11:53 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
-2026-08-01 04:11:53 +0000  Processing step: IDEDistributionAppThinningStep
-2026-08-01 04:11:53 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
-2026-08-01 04:11:53 +0000  Processing step: IDEDistributionArchThinningStep
-2026-08-01 04:11:53 +0000  Archs to thin for item /Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/FirebaseFirestoreInternal.framework are []
-2026-08-01 04:11:53 +0000  Archs to thin for item /Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/absl.framework are []
-2026-08-01 04:11:53 +0000  Archs to thin for item /Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/grpc.framework are []
-2026-08-01 04:11:53 +0000  Archs to thin for item /Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/grpcpp.framework are []
-2026-08-01 04:11:53 +0000  Archs to thin for item /Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/openssl_grpc.framework are []
-2026-08-01 04:11:53 +0000  Archs to thin for item /Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app are []
-2026-08-01 04:11:53 +0000  Processing step: IDEDistributionODRStep
-2026-08-01 04:11:53 +0000  Processing step: IDEDistributionStripXattrsStep
-2026-08-01 04:11:53 +0000  Skipping stripping extended attributes because the codesign step will strip them.
-2026-08-01 04:11:53 +0000  Skipping stripping extended attributes because the codesign step will strip them.
-2026-08-01 04:11:53 +0000  Skipping stripping extended attributes because the codesign step will strip them.
-2026-08-01 04:11:53 +0000  Skipping stripping extended attributes because the codesign step will strip them.
-2026-08-01 04:11:53 +0000  Skipping stripping extended attributes because the codesign step will strip them.
-2026-08-01 04:11:53 +0000  Skipping stripping extended attributes because the codesign step will strip them.
-2026-08-01 04:11:53 +0000  Processing step: IDEDistributionCodesignStep
-2026-08-01 04:11:53 +0000  Entitlements for <IDEDistributionItem: 0x9c2872940; bundleID='org.cocoapods.FirebaseFirestoreInternal', path='<DVTFilePath:0x9e3cfd680:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/FirebaseFirestoreInternal.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x9c2872880; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x9f9289080; name='Apple Development: vtltranstech@gmail.com (393RGP23Q4)', hash='E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC', serialNumber='7C24C38E89B2EF37F92CAACADF147961', certificateKinds='(
+2026-08-01 04:42:45 +0000  Processing step: IDEDistributionInfoPlistStep
+2026-08-01 04:42:45 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2026-08-01 04:42:45 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2026-08-01 04:42:45 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2026-08-01 04:42:45 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2026-08-01 04:42:45 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2026-08-01 04:42:45 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2026-08-01 04:42:45 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2026-08-01 04:42:45 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2026-08-01 04:42:45 +0000  Processing step: IDEDistributionSymbolsStep
+2026-08-01 04:42:45 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2026-08-01 04:42:45 +0000  Processing step: IDEDistributionAppThinningStep
+2026-08-01 04:42:45 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2026-08-01 04:42:45 +0000  Processing step: IDEDistributionArchThinningStep
+2026-08-01 04:42:45 +0000  Archs to thin for item /Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/FirebaseFirestoreInternal.framework are []
+2026-08-01 04:42:45 +0000  Archs to thin for item /Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/absl.framework are []
+2026-08-01 04:42:45 +0000  Archs to thin for item /Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/grpc.framework are []
+2026-08-01 04:42:45 +0000  Archs to thin for item /Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/grpcpp.framework are []
+2026-08-01 04:42:45 +0000  Archs to thin for item /Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/openssl_grpc.framework are []
+2026-08-01 04:42:45 +0000  Archs to thin for item /Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app are []
+2026-08-01 04:42:45 +0000  Processing step: IDEDistributionODRStep
+2026-08-01 04:42:45 +0000  Processing step: IDEDistributionStripXattrsStep
+2026-08-01 04:42:45 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2026-08-01 04:42:45 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2026-08-01 04:42:45 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2026-08-01 04:42:45 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2026-08-01 04:42:45 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2026-08-01 04:42:45 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2026-08-01 04:42:45 +0000  Processing step: IDEDistributionCodesignStep
+2026-08-01 04:42:45 +0000  Entitlements for <IDEDistributionItem: 0x9c2afbc00; bundleID='org.cocoapods.FirebaseFirestoreInternal', path='<DVTFilePath:0x9e3cfd680:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/FirebaseFirestoreInternal.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x9c2afa880; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x9f927ea00; name='Apple Development: vtltranstech@gmail.com (393RGP23Q4)', hash='E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC', serialNumber='7C24C38E89B2EF37F92CAACADF147961', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
 ), issueDate='2026-07-12 18:51:12 +0000''>', entitlements='(null)', teamID='GY4Z97VQ6K', identifier='org.cocoapods.FirebaseFirestoreInternal', executablePath='<DVTFilePath:0x9f7eb0c40:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/FirebaseFirestoreInternal.framework/FirebaseFirestoreInternal'>', hardenedRuntime='0'>'>: {
 }
-2026-08-01 04:11:53 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
-2026-08-01 04:11:53 +0000  Entitlements for <IDEDistributionItem: 0x9c2872940; bundleID='org.cocoapods.FirebaseFirestoreInternal', path='<DVTFilePath:0x9e3cfd680:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/FirebaseFirestoreInternal.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x9c2872880; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x9f9289a40; name='Apple Development: vtltranstech@gmail.com (393RGP23Q4)', hash='E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC', serialNumber='7C24C38E89B2EF37F92CAACADF147961', certificateKinds='(
+2026-08-01 04:42:45 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2026-08-01 04:42:45 +0000  Entitlements for <IDEDistributionItem: 0x9c2afbc00; bundleID='org.cocoapods.FirebaseFirestoreInternal', path='<DVTFilePath:0x9e3cfd680:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/FirebaseFirestoreInternal.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x9c2afa880; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x9f927cc00; name='Apple Development: vtltranstech@gmail.com (393RGP23Q4)', hash='E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC', serialNumber='7C24C38E89B2EF37F92CAACADF147961', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
 ), issueDate='2026-07-12 18:51:12 +0000''>', entitlements='(null)', teamID='GY4Z97VQ6K', identifier='org.cocoapods.FirebaseFirestoreInternal', executablePath='<DVTFilePath:0x9f7eb0c40:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/FirebaseFirestoreInternal.framework/FirebaseFirestoreInternal'>', hardenedRuntime='0'>'> are: {
 }
-2026-08-01 04:11:53 +0000  Writing entitlements for <IDEDistributionItem: 0x9c2872940; bundleID='org.cocoapods.FirebaseFirestoreInternal', path='<DVTFilePath:0x9e3cfd680:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/FirebaseFirestoreInternal.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x9c2872880; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x9f9289a40; name='Apple Development: vtltranstech@gmail.com (393RGP23Q4)', hash='E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC', serialNumber='7C24C38E89B2EF37F92CAACADF147961', certificateKinds='(
+2026-08-01 04:42:45 +0000  Writing entitlements for <IDEDistributionItem: 0x9c2afbc00; bundleID='org.cocoapods.FirebaseFirestoreInternal', path='<DVTFilePath:0x9e3cfd680:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/FirebaseFirestoreInternal.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x9c2afa880; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x9f927cc00; name='Apple Development: vtltranstech@gmail.com (393RGP23Q4)', hash='E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC', serialNumber='7C24C38E89B2EF37F92CAACADF147961', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
-), issueDate='2026-07-12 18:51:12 +0000''>', entitlements='(null)', teamID='GY4Z97VQ6K', identifier='org.cocoapods.FirebaseFirestoreInternal', executablePath='<DVTFilePath:0x9f7eb0c40:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/FirebaseFirestoreInternal.framework/FirebaseFirestoreInternal'>', hardenedRuntime='0'>'> to: /var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~eYLuVQ/entitlements~~~z9rDhv
-2026-08-01 04:11:53 +0000  invoking codesign: <NSConcreteTask: 0x9c299d860; launchPath='/usr/bin/codesign', arguments='(
+), issueDate='2026-07-12 18:51:12 +0000''>', entitlements='(null)', teamID='GY4Z97VQ6K', identifier='org.cocoapods.FirebaseFirestoreInternal', executablePath='<DVTFilePath:0x9f7eb0c40:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/FirebaseFirestoreInternal.framework/FirebaseFirestoreInternal'>', hardenedRuntime='0'>'> to: /var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~i5Z6rt/entitlements~~~fyjIQ1
+2026-08-01 04:42:45 +0000  invoking codesign: <NSConcreteTask: 0x9c38fdae0; launchPath='/usr/bin/codesign', arguments='(
     "-f",
     "-s",
     E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC,
     "--entitlements",
-    "/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~eYLuVQ/entitlements~~~z9rDhv",
+    "/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~i5Z6rt/entitlements~~~fyjIQ1",
     "--preserve-metadata=identifier,flags,runtime,launch-constraints,library-constraints",
     "--generate-entitlement-der",
     "--strip-disallowed-xattrs",
     "-vvv",
-    "/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~eYLuVQ/Root/Payload/FleetInvoice.app/Frameworks/FirebaseFirestoreInternal.framework"
+    "/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~i5Z6rt/Root/Payload/FleetInvoice.app/Frameworks/FirebaseFirestoreInternal.framework"
 )'>
-2026-08-01 04:11:53 +0000  codesign output: /var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~eYLuVQ/Root/Payload/FleetInvoice.app/Frameworks/FirebaseFirestoreInternal.framework: replacing existing signature
-/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~eYLuVQ/Root/Payload/FleetInvoice.app/Frameworks/FirebaseFirestoreInternal.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.FirebaseFirestoreInternal]
-2026-08-01 04:11:53 +0000  Entitlements for <IDEDistributionItem: 0x9c284f8a0; bundleID='org.cocoapods.absl', path='<DVTFilePath:0x9c47d3b40:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/absl.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x9c2871c80; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x9f9289080; name='Apple Development: vtltranstech@gmail.com (393RGP23Q4)', hash='E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC', serialNumber='7C24C38E89B2EF37F92CAACADF147961', certificateKinds='(
+2026-08-01 04:42:45 +0000  codesign output: /var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~i5Z6rt/Root/Payload/FleetInvoice.app/Frameworks/FirebaseFirestoreInternal.framework: replacing existing signature
+/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~i5Z6rt/Root/Payload/FleetInvoice.app/Frameworks/FirebaseFirestoreInternal.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.FirebaseFirestoreInternal]
+2026-08-01 04:42:45 +0000  Entitlements for <IDEDistributionItem: 0x9c2afb660; bundleID='org.cocoapods.absl', path='<DVTFilePath:0x9c47d3b40:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/absl.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x9c2af8a80; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x9f927ea00; name='Apple Development: vtltranstech@gmail.com (393RGP23Q4)', hash='E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC', serialNumber='7C24C38E89B2EF37F92CAACADF147961', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
 ), issueDate='2026-07-12 18:51:12 +0000''>', entitlements='(null)', teamID='GY4Z97VQ6K', identifier='org.cocoapods.absl', executablePath='<DVTFilePath:0x9c47d0c60:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/absl.framework/absl'>', hardenedRuntime='0'>'>: {
 }
-2026-08-01 04:11:53 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
-2026-08-01 04:11:53 +0000  Entitlements for <IDEDistributionItem: 0x9c284f8a0; bundleID='org.cocoapods.absl', path='<DVTFilePath:0x9c47d3b40:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/absl.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x9c2871c80; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x9f9289a40; name='Apple Development: vtltranstech@gmail.com (393RGP23Q4)', hash='E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC', serialNumber='7C24C38E89B2EF37F92CAACADF147961', certificateKinds='(
+2026-08-01 04:42:45 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2026-08-01 04:42:45 +0000  Entitlements for <IDEDistributionItem: 0x9c2afb660; bundleID='org.cocoapods.absl', path='<DVTFilePath:0x9c47d3b40:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/absl.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x9c2af8a80; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x9f927cc00; name='Apple Development: vtltranstech@gmail.com (393RGP23Q4)', hash='E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC', serialNumber='7C24C38E89B2EF37F92CAACADF147961', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
 ), issueDate='2026-07-12 18:51:12 +0000''>', entitlements='(null)', teamID='GY4Z97VQ6K', identifier='org.cocoapods.absl', executablePath='<DVTFilePath:0x9c47d0c60:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/absl.framework/absl'>', hardenedRuntime='0'>'> are: {
 }
-2026-08-01 04:11:53 +0000  Writing entitlements for <IDEDistributionItem: 0x9c284f8a0; bundleID='org.cocoapods.absl', path='<DVTFilePath:0x9c47d3b40:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/absl.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x9c2871c80; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x9f9289a40; name='Apple Development: vtltranstech@gmail.com (393RGP23Q4)', hash='E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC', serialNumber='7C24C38E89B2EF37F92CAACADF147961', certificateKinds='(
+2026-08-01 04:42:45 +0000  Writing entitlements for <IDEDistributionItem: 0x9c2afb660; bundleID='org.cocoapods.absl', path='<DVTFilePath:0x9c47d3b40:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/absl.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x9c2af8a80; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x9f927cc00; name='Apple Development: vtltranstech@gmail.com (393RGP23Q4)', hash='E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC', serialNumber='7C24C38E89B2EF37F92CAACADF147961', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
-), issueDate='2026-07-12 18:51:12 +0000''>', entitlements='(null)', teamID='GY4Z97VQ6K', identifier='org.cocoapods.absl', executablePath='<DVTFilePath:0x9c47d0c60:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/absl.framework/absl'>', hardenedRuntime='0'>'> to: /var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~eYLuVQ/entitlements~~~NOjKEE
-2026-08-01 04:11:53 +0000  invoking codesign: <NSConcreteTask: 0x9c299d860; launchPath='/usr/bin/codesign', arguments='(
+), issueDate='2026-07-12 18:51:12 +0000''>', entitlements='(null)', teamID='GY4Z97VQ6K', identifier='org.cocoapods.absl', executablePath='<DVTFilePath:0x9c47d0c60:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/absl.framework/absl'>', hardenedRuntime='0'>'> to: /var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~i5Z6rt/entitlements~~~U8Cbf0
+2026-08-01 04:42:45 +0000  invoking codesign: <NSConcreteTask: 0x9c38fdae0; launchPath='/usr/bin/codesign', arguments='(
     "-f",
     "-s",
     E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC,
     "--entitlements",
-    "/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~eYLuVQ/entitlements~~~NOjKEE",
+    "/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~i5Z6rt/entitlements~~~U8Cbf0",
     "--preserve-metadata=identifier,flags,runtime,launch-constraints,library-constraints",
     "--generate-entitlement-der",
     "--strip-disallowed-xattrs",
     "-vvv",
-    "/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~eYLuVQ/Root/Payload/FleetInvoice.app/Frameworks/absl.framework"
+    "/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~i5Z6rt/Root/Payload/FleetInvoice.app/Frameworks/absl.framework"
 )'>
-2026-08-01 04:11:53 +0000  codesign output: /var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~eYLuVQ/Root/Payload/FleetInvoice.app/Frameworks/absl.framework: replacing existing signature
-/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~eYLuVQ/Root/Payload/FleetInvoice.app/Frameworks/absl.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.absl]
-2026-08-01 04:11:53 +0000  Entitlements for <IDEDistributionItem: 0x9c2872580; bundleID='org.cocoapods.grpc', path='<DVTFilePath:0x9c47d05a0:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/grpc.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x9c28711a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x9f9289080; name='Apple Development: vtltranstech@gmail.com (393RGP23Q4)', hash='E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC', serialNumber='7C24C38E89B2EF37F92CAACADF147961', certificateKinds='(
+2026-08-01 04:42:45 +0000  codesign output: /var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~i5Z6rt/Root/Payload/FleetInvoice.app/Frameworks/absl.framework: replacing existing signature
+/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~i5Z6rt/Root/Payload/FleetInvoice.app/Frameworks/absl.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.absl]
+2026-08-01 04:42:45 +0000  Entitlements for <IDEDistributionItem: 0x9c2afa940; bundleID='org.cocoapods.grpc', path='<DVTFilePath:0x9c47d05a0:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/grpc.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x9c2afa640; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x9f927ea00; name='Apple Development: vtltranstech@gmail.com (393RGP23Q4)', hash='E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC', serialNumber='7C24C38E89B2EF37F92CAACADF147961', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
 ), issueDate='2026-07-12 18:51:12 +0000''>', entitlements='(null)', teamID='GY4Z97VQ6K', identifier='org.cocoapods.grpc', executablePath='<DVTFilePath:0x9c47d35a0:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/grpc.framework/grpc'>', hardenedRuntime='0'>'>: {
 }
-2026-08-01 04:11:53 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
-2026-08-01 04:11:53 +0000  Entitlements for <IDEDistributionItem: 0x9c2872580; bundleID='org.cocoapods.grpc', path='<DVTFilePath:0x9c47d05a0:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/grpc.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x9c28711a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x9f9289a40; name='Apple Development: vtltranstech@gmail.com (393RGP23Q4)', hash='E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC', serialNumber='7C24C38E89B2EF37F92CAACADF147961', certificateKinds='(
+2026-08-01 04:42:45 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2026-08-01 04:42:45 +0000  Entitlements for <IDEDistributionItem: 0x9c2afa940; bundleID='org.cocoapods.grpc', path='<DVTFilePath:0x9c47d05a0:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/grpc.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x9c2afa640; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x9f927cc00; name='Apple Development: vtltranstech@gmail.com (393RGP23Q4)', hash='E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC', serialNumber='7C24C38E89B2EF37F92CAACADF147961', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
 ), issueDate='2026-07-12 18:51:12 +0000''>', entitlements='(null)', teamID='GY4Z97VQ6K', identifier='org.cocoapods.grpc', executablePath='<DVTFilePath:0x9c47d35a0:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/grpc.framework/grpc'>', hardenedRuntime='0'>'> are: {
 }
-2026-08-01 04:11:53 +0000  Writing entitlements for <IDEDistributionItem: 0x9c2872580; bundleID='org.cocoapods.grpc', path='<DVTFilePath:0x9c47d05a0:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/grpc.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x9c28711a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x9f9289a40; name='Apple Development: vtltranstech@gmail.com (393RGP23Q4)', hash='E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC', serialNumber='7C24C38E89B2EF37F92CAACADF147961', certificateKinds='(
+2026-08-01 04:42:45 +0000  Writing entitlements for <IDEDistributionItem: 0x9c2afa940; bundleID='org.cocoapods.grpc', path='<DVTFilePath:0x9c47d05a0:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/grpc.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x9c2afa640; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x9f927cc00; name='Apple Development: vtltranstech@gmail.com (393RGP23Q4)', hash='E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC', serialNumber='7C24C38E89B2EF37F92CAACADF147961', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
-), issueDate='2026-07-12 18:51:12 +0000''>', entitlements='(null)', teamID='GY4Z97VQ6K', identifier='org.cocoapods.grpc', executablePath='<DVTFilePath:0x9c47d35a0:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/grpc.framework/grpc'>', hardenedRuntime='0'>'> to: /var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~eYLuVQ/entitlements~~~2odEyB
-2026-08-01 04:11:53 +0000  invoking codesign: <NSConcreteTask: 0x9c299d860; launchPath='/usr/bin/codesign', arguments='(
+), issueDate='2026-07-12 18:51:12 +0000''>', entitlements='(null)', teamID='GY4Z97VQ6K', identifier='org.cocoapods.grpc', executablePath='<DVTFilePath:0x9c47d35a0:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/grpc.framework/grpc'>', hardenedRuntime='0'>'> to: /var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~i5Z6rt/entitlements~~~qH7oiz
+2026-08-01 04:42:45 +0000  invoking codesign: <NSConcreteTask: 0x9c38fdae0; launchPath='/usr/bin/codesign', arguments='(
     "-f",
     "-s",
     E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC,
     "--entitlements",
-    "/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~eYLuVQ/entitlements~~~2odEyB",
+    "/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~i5Z6rt/entitlements~~~qH7oiz",
     "--preserve-metadata=identifier,flags,runtime,launch-constraints,library-constraints",
     "--generate-entitlement-der",
     "--strip-disallowed-xattrs",
     "-vvv",
-    "/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~eYLuVQ/Root/Payload/FleetInvoice.app/Frameworks/grpc.framework"
+    "/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~i5Z6rt/Root/Payload/FleetInvoice.app/Frameworks/grpc.framework"
 )'>
-2026-08-01 04:11:53 +0000  codesign output: /var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~eYLuVQ/Root/Payload/FleetInvoice.app/Frameworks/grpc.framework: replacing existing signature
-/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~eYLuVQ/Root/Payload/FleetInvoice.app/Frameworks/grpc.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.grpc]
-2026-08-01 04:11:53 +0000  Entitlements for <IDEDistributionItem: 0x9c2872c40; bundleID='org.cocoapods.grpcpp', path='<DVTFilePath:0x9f7eb3410:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/grpcpp.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x9c2872d60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x9f9289080; name='Apple Development: vtltranstech@gmail.com (393RGP23Q4)', hash='E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC', serialNumber='7C24C38E89B2EF37F92CAACADF147961', certificateKinds='(
+2026-08-01 04:42:45 +0000  codesign output: /var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~i5Z6rt/Root/Payload/FleetInvoice.app/Frameworks/grpc.framework: replacing existing signature
+/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~i5Z6rt/Root/Payload/FleetInvoice.app/Frameworks/grpc.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.grpc]
+2026-08-01 04:42:45 +0000  Entitlements for <IDEDistributionItem: 0x9c2afb2a0; bundleID='org.cocoapods.grpcpp', path='<DVTFilePath:0x9f7eb3410:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/grpcpp.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x9c2afb180; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x9f927ea00; name='Apple Development: vtltranstech@gmail.com (393RGP23Q4)', hash='E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC', serialNumber='7C24C38E89B2EF37F92CAACADF147961', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
 ), issueDate='2026-07-12 18:51:12 +0000''>', entitlements='(null)', teamID='GY4Z97VQ6K', identifier='org.cocoapods.grpcpp', executablePath='<DVTFilePath:0x9c47d2760:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/grpcpp.framework/grpcpp'>', hardenedRuntime='0'>'>: {
 }
-2026-08-01 04:11:53 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
-2026-08-01 04:11:53 +0000  Entitlements for <IDEDistributionItem: 0x9c2872c40; bundleID='org.cocoapods.grpcpp', path='<DVTFilePath:0x9f7eb3410:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/grpcpp.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x9c2872d60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x9f9289a40; name='Apple Development: vtltranstech@gmail.com (393RGP23Q4)', hash='E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC', serialNumber='7C24C38E89B2EF37F92CAACADF147961', certificateKinds='(
+2026-08-01 04:42:45 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2026-08-01 04:42:45 +0000  Entitlements for <IDEDistributionItem: 0x9c2afb2a0; bundleID='org.cocoapods.grpcpp', path='<DVTFilePath:0x9f7eb3410:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/grpcpp.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x9c2afb180; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x9f927cc00; name='Apple Development: vtltranstech@gmail.com (393RGP23Q4)', hash='E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC', serialNumber='7C24C38E89B2EF37F92CAACADF147961', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
 ), issueDate='2026-07-12 18:51:12 +0000''>', entitlements='(null)', teamID='GY4Z97VQ6K', identifier='org.cocoapods.grpcpp', executablePath='<DVTFilePath:0x9c47d2760:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/grpcpp.framework/grpcpp'>', hardenedRuntime='0'>'> are: {
 }
-2026-08-01 04:11:53 +0000  Writing entitlements for <IDEDistributionItem: 0x9c2872c40; bundleID='org.cocoapods.grpcpp', path='<DVTFilePath:0x9f7eb3410:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/grpcpp.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x9c2872d60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x9f9289a40; name='Apple Development: vtltranstech@gmail.com (393RGP23Q4)', hash='E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC', serialNumber='7C24C38E89B2EF37F92CAACADF147961', certificateKinds='(
+2026-08-01 04:42:45 +0000  Writing entitlements for <IDEDistributionItem: 0x9c2afb2a0; bundleID='org.cocoapods.grpcpp', path='<DVTFilePath:0x9f7eb3410:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/grpcpp.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x9c2afb180; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x9f927cc00; name='Apple Development: vtltranstech@gmail.com (393RGP23Q4)', hash='E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC', serialNumber='7C24C38E89B2EF37F92CAACADF147961', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
-), issueDate='2026-07-12 18:51:12 +0000''>', entitlements='(null)', teamID='GY4Z97VQ6K', identifier='org.cocoapods.grpcpp', executablePath='<DVTFilePath:0x9c47d2760:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/grpcpp.framework/grpcpp'>', hardenedRuntime='0'>'> to: /var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~eYLuVQ/entitlements~~~UPqHiC
-2026-08-01 04:11:53 +0000  invoking codesign: <NSConcreteTask: 0x9c299d860; launchPath='/usr/bin/codesign', arguments='(
+), issueDate='2026-07-12 18:51:12 +0000''>', entitlements='(null)', teamID='GY4Z97VQ6K', identifier='org.cocoapods.grpcpp', executablePath='<DVTFilePath:0x9c47d2760:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/grpcpp.framework/grpcpp'>', hardenedRuntime='0'>'> to: /var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~i5Z6rt/entitlements~~~A05Ui3
+2026-08-01 04:42:45 +0000  invoking codesign: <NSConcreteTask: 0x9c38fdae0; launchPath='/usr/bin/codesign', arguments='(
     "-f",
     "-s",
     E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC,
     "--entitlements",
-    "/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~eYLuVQ/entitlements~~~UPqHiC",
+    "/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~i5Z6rt/entitlements~~~A05Ui3",
     "--preserve-metadata=identifier,flags,runtime,launch-constraints,library-constraints",
     "--generate-entitlement-der",
     "--strip-disallowed-xattrs",
     "-vvv",
-    "/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~eYLuVQ/Root/Payload/FleetInvoice.app/Frameworks/grpcpp.framework"
+    "/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~i5Z6rt/Root/Payload/FleetInvoice.app/Frameworks/grpcpp.framework"
 )'>
-2026-08-01 04:11:53 +0000  codesign output: /var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~eYLuVQ/Root/Payload/FleetInvoice.app/Frameworks/grpcpp.framework: replacing existing signature
-/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~eYLuVQ/Root/Payload/FleetInvoice.app/Frameworks/grpcpp.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.grpcpp]
-2026-08-01 04:11:53 +0000  Entitlements for <IDEDistributionItem: 0x9c2871f80; bundleID='org.cocoapods.openssl-grpc', path='<DVTFilePath:0x9f7eb2bc0:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/openssl_grpc.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x9c2871fe0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x9f9289080; name='Apple Development: vtltranstech@gmail.com (393RGP23Q4)', hash='E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC', serialNumber='7C24C38E89B2EF37F92CAACADF147961', certificateKinds='(
+2026-08-01 04:42:45 +0000  codesign output: /var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~i5Z6rt/Root/Payload/FleetInvoice.app/Frameworks/grpcpp.framework: replacing existing signature
+/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~i5Z6rt/Root/Payload/FleetInvoice.app/Frameworks/grpcpp.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.grpcpp]
+2026-08-01 04:42:45 +0000  Entitlements for <IDEDistributionItem: 0x9c2afb1e0; bundleID='org.cocoapods.openssl-grpc', path='<DVTFilePath:0x9f7eb2bc0:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/openssl_grpc.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x9c2afb120; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x9f927ea00; name='Apple Development: vtltranstech@gmail.com (393RGP23Q4)', hash='E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC', serialNumber='7C24C38E89B2EF37F92CAACADF147961', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
 ), issueDate='2026-07-12 18:51:12 +0000''>', entitlements='(null)', teamID='GY4Z97VQ6K', identifier='org.cocoapods.openssl-grpc', executablePath='<DVTFilePath:0x9c47d3900:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/openssl_grpc.framework/openssl_grpc'>', hardenedRuntime='0'>'>: {
 }
-2026-08-01 04:11:53 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
-2026-08-01 04:11:53 +0000  Entitlements for <IDEDistributionItem: 0x9c2871f80; bundleID='org.cocoapods.openssl-grpc', path='<DVTFilePath:0x9f7eb2bc0:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/openssl_grpc.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x9c2871fe0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x9f9289a40; name='Apple Development: vtltranstech@gmail.com (393RGP23Q4)', hash='E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC', serialNumber='7C24C38E89B2EF37F92CAACADF147961', certificateKinds='(
+2026-08-01 04:42:45 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2026-08-01 04:42:45 +0000  Entitlements for <IDEDistributionItem: 0x9c2afb1e0; bundleID='org.cocoapods.openssl-grpc', path='<DVTFilePath:0x9f7eb2bc0:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/openssl_grpc.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x9c2afb120; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x9f927cc00; name='Apple Development: vtltranstech@gmail.com (393RGP23Q4)', hash='E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC', serialNumber='7C24C38E89B2EF37F92CAACADF147961', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
 ), issueDate='2026-07-12 18:51:12 +0000''>', entitlements='(null)', teamID='GY4Z97VQ6K', identifier='org.cocoapods.openssl-grpc', executablePath='<DVTFilePath:0x9c47d3900:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/openssl_grpc.framework/openssl_grpc'>', hardenedRuntime='0'>'> are: {
 }
-2026-08-01 04:11:53 +0000  Writing entitlements for <IDEDistributionItem: 0x9c2871f80; bundleID='org.cocoapods.openssl-grpc', path='<DVTFilePath:0x9f7eb2bc0:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/openssl_grpc.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x9c2871fe0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x9f9289a40; name='Apple Development: vtltranstech@gmail.com (393RGP23Q4)', hash='E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC', serialNumber='7C24C38E89B2EF37F92CAACADF147961', certificateKinds='(
+2026-08-01 04:42:45 +0000  Writing entitlements for <IDEDistributionItem: 0x9c2afb1e0; bundleID='org.cocoapods.openssl-grpc', path='<DVTFilePath:0x9f7eb2bc0:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/openssl_grpc.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x9c2afb120; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x9f927cc00; name='Apple Development: vtltranstech@gmail.com (393RGP23Q4)', hash='E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC', serialNumber='7C24C38E89B2EF37F92CAACADF147961', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
-), issueDate='2026-07-12 18:51:12 +0000''>', entitlements='(null)', teamID='GY4Z97VQ6K', identifier='org.cocoapods.openssl-grpc', executablePath='<DVTFilePath:0x9c47d3900:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/openssl_grpc.framework/openssl_grpc'>', hardenedRuntime='0'>'> to: /var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~eYLuVQ/entitlements~~~5VS8rr
-2026-08-01 04:11:53 +0000  invoking codesign: <NSConcreteTask: 0x9c299d860; launchPath='/usr/bin/codesign', arguments='(
+), issueDate='2026-07-12 18:51:12 +0000''>', entitlements='(null)', teamID='GY4Z97VQ6K', identifier='org.cocoapods.openssl-grpc', executablePath='<DVTFilePath:0x9c47d3900:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/Frameworks/openssl_grpc.framework/openssl_grpc'>', hardenedRuntime='0'>'> to: /var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~i5Z6rt/entitlements~~~3EX6MC
+2026-08-01 04:42:45 +0000  invoking codesign: <NSConcreteTask: 0x9c38fdae0; launchPath='/usr/bin/codesign', arguments='(
     "-f",
     "-s",
     E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC,
     "--entitlements",
-    "/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~eYLuVQ/entitlements~~~5VS8rr",
+    "/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~i5Z6rt/entitlements~~~3EX6MC",
     "--preserve-metadata=identifier,flags,runtime,launch-constraints,library-constraints",
     "--generate-entitlement-der",
     "--strip-disallowed-xattrs",
     "-vvv",
-    "/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~eYLuVQ/Root/Payload/FleetInvoice.app/Frameworks/openssl_grpc.framework"
+    "/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~i5Z6rt/Root/Payload/FleetInvoice.app/Frameworks/openssl_grpc.framework"
 )'>
-2026-08-01 04:11:53 +0000  codesign output: /var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~eYLuVQ/Root/Payload/FleetInvoice.app/Frameworks/openssl_grpc.framework: replacing existing signature
-/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~eYLuVQ/Root/Payload/FleetInvoice.app/Frameworks/openssl_grpc.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.openssl-grpc]
-2026-08-01 04:11:53 +0000  Entitlements for <IDEDistributionItem: 0x9c284f960; bundleID='com.vtltranstech.fleetinvoice', path='<DVTFilePath:0x9f06020d0:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x9c284f9c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x9f9289080; name='Apple Development: vtltranstech@gmail.com (393RGP23Q4)', hash='E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC', serialNumber='7C24C38E89B2EF37F92CAACADF147961', certificateKinds='(
+2026-08-01 04:42:45 +0000  codesign output: /var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~i5Z6rt/Root/Payload/FleetInvoice.app/Frameworks/openssl_grpc.framework: replacing existing signature
+/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~i5Z6rt/Root/Payload/FleetInvoice.app/Frameworks/openssl_grpc.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.openssl-grpc]
+2026-08-01 04:42:45 +0000  Entitlements for <IDEDistributionItem: 0x9c2af9ec0; bundleID='com.vtltranstech.fleetinvoice', path='<DVTFilePath:0x9f06020d0:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x9c2af9ce0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x9f927ea00; name='Apple Development: vtltranstech@gmail.com (393RGP23Q4)', hash='E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC', serialNumber='7C24C38E89B2EF37F92CAACADF147961', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
 ), issueDate='2026-07-12 18:51:12 +0000''>', entitlements='{
@@ -372,8 +372,8 @@
     "com.apple.developer.team-identifier" = GY4Z97VQ6K;
     "get-task-allow" = 1;
 }
-2026-08-01 04:11:53 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
-2026-08-01 04:11:53 +0000  Entitlements for <IDEDistributionItem: 0x9c284f960; bundleID='com.vtltranstech.fleetinvoice', path='<DVTFilePath:0x9f06020d0:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x9c284f9c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x9f9289a40; name='Apple Development: vtltranstech@gmail.com (393RGP23Q4)', hash='E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC', serialNumber='7C24C38E89B2EF37F92CAACADF147961', certificateKinds='(
+2026-08-01 04:42:45 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2026-08-01 04:42:45 +0000  Entitlements for <IDEDistributionItem: 0x9c2af9ec0; bundleID='com.vtltranstech.fleetinvoice', path='<DVTFilePath:0x9f06020d0:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x9c2af9ce0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x9f927cc00; name='Apple Development: vtltranstech@gmail.com (393RGP23Q4)', hash='E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC', serialNumber='7C24C38E89B2EF37F92CAACADF147961', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
 ), issueDate='2026-07-12 18:51:12 +0000''>', entitlements='{
@@ -385,190 +385,190 @@
     "com.apple.developer.team-identifier" = GY4Z97VQ6K;
     "get-task-allow" = 1;
 }
-2026-08-01 04:11:53 +0000  Writing entitlements for <IDEDistributionItem: 0x9c284f960; bundleID='com.vtltranstech.fleetinvoice', path='<DVTFilePath:0x9f06020d0:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x9c284f9c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x9f9289a40; name='Apple Development: vtltranstech@gmail.com (393RGP23Q4)', hash='E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC', serialNumber='7C24C38E89B2EF37F92CAACADF147961', certificateKinds='(
+2026-08-01 04:42:45 +0000  Writing entitlements for <IDEDistributionItem: 0x9c2af9ec0; bundleID='com.vtltranstech.fleetinvoice', path='<DVTFilePath:0x9f06020d0:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x9c2af9ce0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x9f927cc00; name='Apple Development: vtltranstech@gmail.com (393RGP23Q4)', hash='E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC', serialNumber='7C24C38E89B2EF37F92CAACADF147961', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
 ), issueDate='2026-07-12 18:51:12 +0000''>', entitlements='{
     "application-identifier" = "GY4Z97VQ6K.com.vtltranstech.fleetinvoice";
     "com.apple.developer.team-identifier" = GY4Z97VQ6K;
     "get-task-allow" = 1;
-}', teamID='GY4Z97VQ6K', identifier='com.vtltranstech.fleetinvoice', executablePath='<DVTFilePath:0x9c47d3420:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/FleetInvoice'>', hardenedRuntime='0'>'> to: /var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~eYLuVQ/entitlements~~~g6QZ7f
-2026-08-01 04:11:53 +0000  invoking codesign: <NSConcreteTask: 0x9c299d860; launchPath='/usr/bin/codesign', arguments='(
+}', teamID='GY4Z97VQ6K', identifier='com.vtltranstech.fleetinvoice', executablePath='<DVTFilePath:0x9c47d3420:'/Users/sivakumarm/Library/Developer/Xcode/Archives/2026-08-01/FleetInvoice 01-08-26, 8.59 AM.xcarchive/Products/Applications/FleetInvoice.app/FleetInvoice'>', hardenedRuntime='0'>'> to: /var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~i5Z6rt/entitlements~~~nMebIu
+2026-08-01 04:42:45 +0000  invoking codesign: <NSConcreteTask: 0x9c38fdae0; launchPath='/usr/bin/codesign', arguments='(
     "-f",
     "-s",
     E93A853C113D518AA3C029C9A5BCDDE8ED9E80BC,
     "--entitlements",
-    "/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~eYLuVQ/entitlements~~~g6QZ7f",
+    "/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~i5Z6rt/entitlements~~~nMebIu",
     "--preserve-metadata=identifier,flags,runtime,launch-constraints,library-constraints",
     "--generate-entitlement-der",
     "--strip-disallowed-xattrs",
     "-vvv",
-    "/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~eYLuVQ/Root/Payload/FleetInvoice.app"
+    "/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~i5Z6rt/Root/Payload/FleetInvoice.app"
 )'>
-2026-08-01 04:11:54 +0000  codesign output: /var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~eYLuVQ/Root/Payload/FleetInvoice.app: replacing existing signature
-/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~eYLuVQ/Root/Payload/FleetInvoice.app: signed app bundle with Mach-O thin (arm64) [com.vtltranstech.fleetinvoice]
-2026-08-01 04:11:54 +0000  Processing step: IDEDistributionZipODRItemStep
-2026-08-01 04:11:54 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
-2026-08-01 04:11:54 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
-2026-08-01 04:11:54 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
-2026-08-01 04:11:54 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
-2026-08-01 04:11:54 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
-2026-08-01 04:11:54 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
-2026-08-01 04:11:54 +0000  Processing step: IDEDistributionCreateIPAStep
-2026-08-01 04:11:54 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~eYLuVQ/Root' '/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~eYLuVQ/Packages/FleetInvoice.ipa'
-2026-08-01 04:11:54 +0000  >>> Copying /var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~eYLuVQ/Root 
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/_CodeSignature/CodeResources ... 
-2026-08-01 04:11:54 +0000  21483 bytes for ./Payload/FleetInvoice.app/_CodeSignature/CodeResources
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/Firebase_FirebaseCore.bundle/PrivacyInfo.xcprivacy ... 
-2026-08-01 04:11:54 +0000  855 bytes for ./Payload/FleetInvoice.app/Firebase_FirebaseCore.bundle/PrivacyInfo.xcprivacy
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/Firebase_FirebaseCore.bundle/Info.plist ... 
-2026-08-01 04:11:54 +0000  695 bytes for ./Payload/FleetInvoice.app/Firebase_FirebaseCore.bundle/Info.plist
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/gRPC_grpcppWrapper.bundle/PrivacyInfo.xcprivacy ... 
-2026-08-01 04:11:54 +0000  817 bytes for ./Payload/FleetInvoice.app/gRPC_grpcppWrapper.bundle/PrivacyInfo.xcprivacy
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/gRPC_grpcppWrapper.bundle/Info.plist ... 
-2026-08-01 04:11:54 +0000  688 bytes for ./Payload/FleetInvoice.app/gRPC_grpcppWrapper.bundle/Info.plist
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/GTMSessionFetcher_GTMSessionFetcherCore.bundle/PrivacyInfo.xcprivacy ... 
-2026-08-01 04:11:54 +0000  598 bytes for ./Payload/FleetInvoice.app/GTMSessionFetcher_GTMSessionFetcherCore.bundle/PrivacyInfo.xcprivacy
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/GTMSessionFetcher_GTMSessionFetcherCore.bundle/Info.plist ... 
-2026-08-01 04:11:54 +0000  725 bytes for ./Payload/FleetInvoice.app/GTMSessionFetcher_GTMSessionFetcherCore.bundle/Info.plist
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/leveldb_leveldb.bundle/PrivacyInfo.xcprivacy ... 
-2026-08-01 04:11:54 +0000  856 bytes for ./Payload/FleetInvoice.app/leveldb_leveldb.bundle/PrivacyInfo.xcprivacy
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/leveldb_leveldb.bundle/Info.plist ... 
-2026-08-01 04:11:54 +0000  675 bytes for ./Payload/FleetInvoice.app/leveldb_leveldb.bundle/Info.plist
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/FleetInvoice ... 
-2026-08-01 04:11:54 +0000  10912048 bytes for ./Payload/FleetInvoice.app/FleetInvoice
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/nanopb_nanopb.bundle/PrivacyInfo.xcprivacy ... 
+2026-08-01 04:42:45 +0000  codesign output: /var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~i5Z6rt/Root/Payload/FleetInvoice.app: replacing existing signature
+/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~i5Z6rt/Root/Payload/FleetInvoice.app: signed app bundle with Mach-O thin (arm64) [com.vtltranstech.fleetinvoice]
+2026-08-01 04:42:45 +0000  Processing step: IDEDistributionZipODRItemStep
+2026-08-01 04:42:45 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2026-08-01 04:42:45 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2026-08-01 04:42:45 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2026-08-01 04:42:45 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2026-08-01 04:42:45 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2026-08-01 04:42:45 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2026-08-01 04:42:45 +0000  Processing step: IDEDistributionCreateIPAStep
+2026-08-01 04:42:45 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~i5Z6rt/Root' '/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~i5Z6rt/Packages/FleetInvoice.ipa'
+2026-08-01 04:42:45 +0000  >>> Copying /var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~i5Z6rt/Root 
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/_CodeSignature/CodeResources ... 
+2026-08-01 04:42:45 +0000  21483 bytes for ./Payload/FleetInvoice.app/_CodeSignature/CodeResources
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/Firebase_FirebaseCore.bundle/PrivacyInfo.xcprivacy ... 
+2026-08-01 04:42:45 +0000  855 bytes for ./Payload/FleetInvoice.app/Firebase_FirebaseCore.bundle/PrivacyInfo.xcprivacy
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/Firebase_FirebaseCore.bundle/Info.plist ... 
+2026-08-01 04:42:45 +0000  695 bytes for ./Payload/FleetInvoice.app/Firebase_FirebaseCore.bundle/Info.plist
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/gRPC_grpcppWrapper.bundle/PrivacyInfo.xcprivacy ... 
+2026-08-01 04:42:45 +0000  817 bytes for ./Payload/FleetInvoice.app/gRPC_grpcppWrapper.bundle/PrivacyInfo.xcprivacy
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/gRPC_grpcppWrapper.bundle/Info.plist ... 
+2026-08-01 04:42:45 +0000  688 bytes for ./Payload/FleetInvoice.app/gRPC_grpcppWrapper.bundle/Info.plist
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/GTMSessionFetcher_GTMSessionFetcherCore.bundle/PrivacyInfo.xcprivacy ... 
+2026-08-01 04:42:45 +0000  598 bytes for ./Payload/FleetInvoice.app/GTMSessionFetcher_GTMSessionFetcherCore.bundle/PrivacyInfo.xcprivacy
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/GTMSessionFetcher_GTMSessionFetcherCore.bundle/Info.plist ... 
+2026-08-01 04:42:45 +0000  725 bytes for ./Payload/FleetInvoice.app/GTMSessionFetcher_GTMSessionFetcherCore.bundle/Info.plist
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/leveldb_leveldb.bundle/PrivacyInfo.xcprivacy ... 
+2026-08-01 04:42:45 +0000  856 bytes for ./Payload/FleetInvoice.app/leveldb_leveldb.bundle/PrivacyInfo.xcprivacy
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/leveldb_leveldb.bundle/Info.plist ... 
+2026-08-01 04:42:45 +0000  675 bytes for ./Payload/FleetInvoice.app/leveldb_leveldb.bundle/Info.plist
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/FleetInvoice ... 
+2026-08-01 04:42:45 +0000  10912048 bytes for ./Payload/FleetInvoice.app/FleetInvoice
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/nanopb_nanopb.bundle/PrivacyInfo.xcprivacy ... 
 374 bytes for ./Payload/FleetInvoice.app/nanopb_nanopb.bundle/PrivacyInfo.xcprivacy
-copying file ./Payload/FleetInvoice.app/nanopb_nanopb.bundle/Info.plist ... 
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/nanopb_nanopb.bundle/Info.plist ... 
 669 bytes for ./Payload/FleetInvoice.app/nanopb_nanopb.bundle/Info.plist
-copying file ./Payload/FleetInvoice.app/AppIcon60x60@2x.png ... 
-3836 bytes for ./Payload/FleetInvoice.app/AppIcon60x60@2x.png
-copying file ./Payload/FleetInvoice.app/GoogleUtilities_GoogleUtilities-AppDelegateSwizzler.bundle/PrivacyInfo.xcprivacy ... 
-2026-08-01 04:11:54 +0000  478 bytes for ./Payload/FleetInvoice.app/GoogleUtilities_GoogleUtilities-AppDelegateSwizzler.bundle/PrivacyInfo.xcprivacy
-copying file ./Payload/FleetInvoice.app/GoogleUtilities_GoogleUtilities-AppDelegateSwizzler.bundle/Info.plist ... 
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/AppIcon60x60@2x.png ... 
+2026-08-01 04:42:45 +0000  3836 bytes for ./Payload/FleetInvoice.app/AppIcon60x60@2x.png
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/GoogleUtilities_GoogleUtilities-AppDelegateSwizzler.bundle/PrivacyInfo.xcprivacy ... 
+478 bytes for ./Payload/FleetInvoice.app/GoogleUtilities_GoogleUtilities-AppDelegateSwizzler.bundle/PrivacyInfo.xcprivacy
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/GoogleUtilities_GoogleUtilities-AppDelegateSwizzler.bundle/Info.plist ... 
 747 bytes for ./Payload/FleetInvoice.app/GoogleUtilities_GoogleUtilities-AppDelegateSwizzler.bundle/Info.plist
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/GoogleUtilities_GoogleUtilities-NSData.bundle/PrivacyInfo.xcprivacy ... 
-2026-08-01 04:11:54 +0000  478 bytes for ./Payload/FleetInvoice.app/GoogleUtilities_GoogleUtilities-NSData.bundle/PrivacyInfo.xcprivacy
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/GoogleUtilities_GoogleUtilities-NSData.bundle/PrivacyInfo.xcprivacy ... 
+2026-08-01 04:42:45 +0000  478 bytes for ./Payload/FleetInvoice.app/GoogleUtilities_GoogleUtilities-NSData.bundle/PrivacyInfo.xcprivacy
 copying file ./Payload/FleetInvoice.app/GoogleUtilities_GoogleUtilities-NSData.bundle/Info.plist ... 
-2026-08-01 04:11:54 +0000  721 bytes for ./Payload/FleetInvoice.app/GoogleUtilities_GoogleUtilities-NSData.bundle/Info.plist
-copying file ./Payload/FleetInvoice.app/gRPC_grpcWrapper.bundle/PrivacyInfo.xcprivacy ... 
-2026-08-01 04:11:54 +0000  817 bytes for ./Payload/FleetInvoice.app/gRPC_grpcWrapper.bundle/PrivacyInfo.xcprivacy
-copying file ./Payload/FleetInvoice.app/gRPC_grpcWrapper.bundle/Info.plist ... 
+721 bytes for ./Payload/FleetInvoice.app/GoogleUtilities_GoogleUtilities-NSData.bundle/Info.plist
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/gRPC_grpcWrapper.bundle/PrivacyInfo.xcprivacy ... 
+817 bytes for ./Payload/FleetInvoice.app/gRPC_grpcWrapper.bundle/PrivacyInfo.xcprivacy
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/gRPC_grpcWrapper.bundle/Info.plist ... 
 684 bytes for ./Payload/FleetInvoice.app/gRPC_grpcWrapper.bundle/Info.plist
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/Firebase_FirebaseCoreInternal.bundle/PrivacyInfo.xcprivacy ... 
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/Firebase_FirebaseCoreInternal.bundle/PrivacyInfo.xcprivacy ... 
 855 bytes for ./Payload/FleetInvoice.app/Firebase_FirebaseCoreInternal.bundle/PrivacyInfo.xcprivacy
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/Firebase_FirebaseCoreInternal.bundle/Info.plist ... 
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/Firebase_FirebaseCoreInternal.bundle/Info.plist ... 
 711 bytes for ./Payload/FleetInvoice.app/Firebase_FirebaseCoreInternal.bundle/Info.plist
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/Firebase_FirebaseAuth.bundle/PrivacyInfo.xcprivacy ... 
-2102 bytes for ./Payload/FleetInvoice.app/Firebase_FirebaseAuth.bundle/PrivacyInfo.xcprivacy
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/Firebase_FirebaseAuth.bundle/Info.plist ... 
-695 bytes for ./Payload/FleetInvoice.app/Firebase_FirebaseAuth.bundle/Info.plist
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/GoogleUtilities_GoogleUtilities-Logger.bundle/PrivacyInfo.xcprivacy ... 
-478 bytes for ./Payload/FleetInvoice.app/GoogleUtilities_GoogleUtilities-Logger.bundle/PrivacyInfo.xcprivacy
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/GoogleUtilities_GoogleUtilities-Logger.bundle/Info.plist ... 
-721 bytes for ./Payload/FleetInvoice.app/GoogleUtilities_GoogleUtilities-Logger.bundle/Info.plist
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/GoogleUtilities_GoogleUtilities-Reachability.bundle/PrivacyInfo.xcprivacy ... 
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/Firebase_FirebaseAuth.bundle/PrivacyInfo.xcprivacy ... 
+2026-08-01 04:42:45 +0000  2102 bytes for ./Payload/FleetInvoice.app/Firebase_FirebaseAuth.bundle/PrivacyInfo.xcprivacy
+copying file ./Payload/FleetInvoice.app/Firebase_FirebaseAuth.bundle/Info.plist ... 
+2026-08-01 04:42:45 +0000  695 bytes for ./Payload/FleetInvoice.app/Firebase_FirebaseAuth.bundle/Info.plist
+copying file ./Payload/FleetInvoice.app/GoogleUtilities_GoogleUtilities-Logger.bundle/PrivacyInfo.xcprivacy ... 
+2026-08-01 04:42:45 +0000  478 bytes for ./Payload/FleetInvoice.app/GoogleUtilities_GoogleUtilities-Logger.bundle/PrivacyInfo.xcprivacy
+copying file ./Payload/FleetInvoice.app/GoogleUtilities_GoogleUtilities-Logger.bundle/Info.plist ... 
+2026-08-01 04:42:45 +0000  721 bytes for ./Payload/FleetInvoice.app/GoogleUtilities_GoogleUtilities-Logger.bundle/Info.plist
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/GoogleUtilities_GoogleUtilities-Reachability.bundle/PrivacyInfo.xcprivacy ... 
 478 bytes for ./Payload/FleetInvoice.app/GoogleUtilities_GoogleUtilities-Reachability.bundle/PrivacyInfo.xcprivacy
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/GoogleUtilities_GoogleUtilities-Reachability.bundle/Info.plist ... 
-2026-08-01 04:11:54 +0000  733 bytes for ./Payload/FleetInvoice.app/GoogleUtilities_GoogleUtilities-Reachability.bundle/Info.plist
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/Firebase_FirebaseFirestore.bundle/PrivacyInfo.xcprivacy ... 
-1105 bytes for ./Payload/FleetInvoice.app/Firebase_FirebaseFirestore.bundle/PrivacyInfo.xcprivacy
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/Firebase_FirebaseFirestore.bundle/Info.plist ... 
-705 bytes for ./Payload/FleetInvoice.app/Firebase_FirebaseFirestore.bundle/Info.plist
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/GoogleService-Info.plist ... 
-2026-08-01 04:11:54 +0000  517 bytes for ./Payload/FleetInvoice.app/GoogleService-Info.plist
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/gRPC_opensslWrapper.bundle/PrivacyInfo.xcprivacy ... 
-2026-08-01 04:11:54 +0000  817 bytes for ./Payload/FleetInvoice.app/gRPC_opensslWrapper.bundle/PrivacyInfo.xcprivacy
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/gRPC_opensslWrapper.bundle/Info.plist ... 
-2026-08-01 04:11:54 +0000  690 bytes for ./Payload/FleetInvoice.app/gRPC_opensslWrapper.bundle/Info.plist
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/Promises_FBLPromises.bundle/PrivacyInfo.xcprivacy ... 
-2026-08-01 04:11:54 +0000  373 bytes for ./Payload/FleetInvoice.app/Promises_FBLPromises.bundle/PrivacyInfo.xcprivacy
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/GoogleUtilities_GoogleUtilities-Reachability.bundle/Info.plist ... 
+733 bytes for ./Payload/FleetInvoice.app/GoogleUtilities_GoogleUtilities-Reachability.bundle/Info.plist
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/Firebase_FirebaseFirestore.bundle/PrivacyInfo.xcprivacy ... 
+2026-08-01 04:42:45 +0000  1105 bytes for ./Payload/FleetInvoice.app/Firebase_FirebaseFirestore.bundle/PrivacyInfo.xcprivacy
+copying file ./Payload/FleetInvoice.app/Firebase_FirebaseFirestore.bundle/Info.plist ... 
+2026-08-01 04:42:45 +0000  705 bytes for ./Payload/FleetInvoice.app/Firebase_FirebaseFirestore.bundle/Info.plist
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/GoogleService-Info.plist ... 
+517 bytes for ./Payload/FleetInvoice.app/GoogleService-Info.plist
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/gRPC_opensslWrapper.bundle/PrivacyInfo.xcprivacy ... 
+2026-08-01 04:42:45 +0000  817 bytes for ./Payload/FleetInvoice.app/gRPC_opensslWrapper.bundle/PrivacyInfo.xcprivacy
+copying file ./Payload/FleetInvoice.app/gRPC_opensslWrapper.bundle/Info.plist ... 
+2026-08-01 04:42:45 +0000  690 bytes for ./Payload/FleetInvoice.app/gRPC_opensslWrapper.bundle/Info.plist
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/Promises_FBLPromises.bundle/PrivacyInfo.xcprivacy ... 
+2026-08-01 04:42:45 +0000  373 bytes for ./Payload/FleetInvoice.app/Promises_FBLPromises.bundle/PrivacyInfo.xcprivacy
 copying file ./Payload/FleetInvoice.app/Promises_FBLPromises.bundle/Info.plist ... 
-2026-08-01 04:11:54 +0000  685 bytes for ./Payload/FleetInvoice.app/Promises_FBLPromises.bundle/Info.plist
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/GoogleUtilities_GoogleUtilities-Network.bundle/PrivacyInfo.xcprivacy ... 
-2026-08-01 04:11:54 +0000  856 bytes for ./Payload/FleetInvoice.app/GoogleUtilities_GoogleUtilities-Network.bundle/PrivacyInfo.xcprivacy
+2026-08-01 04:42:45 +0000  685 bytes for ./Payload/FleetInvoice.app/Promises_FBLPromises.bundle/Info.plist
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/GoogleUtilities_GoogleUtilities-Network.bundle/PrivacyInfo.xcprivacy ... 
+2026-08-01 04:42:45 +0000  856 bytes for ./Payload/FleetInvoice.app/GoogleUtilities_GoogleUtilities-Network.bundle/PrivacyInfo.xcprivacy
 copying file ./Payload/FleetInvoice.app/GoogleUtilities_GoogleUtilities-Network.bundle/Info.plist ... 
-2026-08-01 04:11:54 +0000  723 bytes for ./Payload/FleetInvoice.app/GoogleUtilities_GoogleUtilities-Network.bundle/Info.plist
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/Assets.car ... 
-2026-08-01 04:11:54 +0000  33560 bytes for ./Payload/FleetInvoice.app/Assets.car
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/AppIcon76x76@2x~ipad.png ... 
-2026-08-01 04:11:54 +0000  4562 bytes for ./Payload/FleetInvoice.app/AppIcon76x76@2x~ipad.png
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/Firebase_FirebaseCoreExtension.bundle/PrivacyInfo.xcprivacy ... 
-2026-08-01 04:11:54 +0000  478 bytes for ./Payload/FleetInvoice.app/Firebase_FirebaseCoreExtension.bundle/PrivacyInfo.xcprivacy
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/Firebase_FirebaseCoreExtension.bundle/Info.plist ... 
-2026-08-01 04:11:54 +0000  713 bytes for ./Payload/FleetInvoice.app/Firebase_FirebaseCoreExtension.bundle/Info.plist
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/GoogleUtilities_GoogleUtilities-Environment.bundle/PrivacyInfo.xcprivacy ... 
-2026-08-01 04:11:54 +0000  911 bytes for ./Payload/FleetInvoice.app/GoogleUtilities_GoogleUtilities-Environment.bundle/PrivacyInfo.xcprivacy
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/GoogleUtilities_GoogleUtilities-Environment.bundle/Info.plist ... 
-2026-08-01 04:11:54 +0000  731 bytes for ./Payload/FleetInvoice.app/GoogleUtilities_GoogleUtilities-Environment.bundle/Info.plist
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/grpcpp.framework/_CodeSignature/CodeResources ... 
-2026-08-01 04:11:54 +0000  2296 bytes for ./Payload/FleetInvoice.app/Frameworks/grpcpp.framework/_CodeSignature/CodeResources
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/grpcpp.framework/grpcpp ... 
-2026-08-01 04:11:54 +0000  51376 bytes for ./Payload/FleetInvoice.app/Frameworks/grpcpp.framework/grpcpp
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/grpcpp.framework/grpcpp.bundle/PrivacyInfo.xcprivacy ... 
-2026-08-01 04:11:54 +0000  817 bytes for ./Payload/FleetInvoice.app/Frameworks/grpcpp.framework/grpcpp.bundle/PrivacyInfo.xcprivacy
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/grpcpp.framework/grpcpp.bundle/Info.plist ... 
-2026-08-01 04:11:54 +0000  759 bytes for ./Payload/FleetInvoice.app/Frameworks/grpcpp.framework/grpcpp.bundle/Info.plist
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/grpcpp.framework/Info.plist ... 
-2026-08-01 04:11:54 +0000  1509 bytes for ./Payload/FleetInvoice.app/Frameworks/grpcpp.framework/Info.plist
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/FirebaseFirestoreInternal.framework/_CodeSignature/CodeResources ... 
-2026-08-01 04:11:54 +0000  2404 bytes for ./Payload/FleetInvoice.app/Frameworks/FirebaseFirestoreInternal.framework/_CodeSignature/CodeResources
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/FirebaseFirestoreInternal.framework/FirebaseFirestoreInternal ... 
-2026-08-01 04:11:54 +0000  51408 bytes for ./Payload/FleetInvoice.app/Frameworks/FirebaseFirestoreInternal.framework/FirebaseFirestoreInternal
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/FirebaseFirestoreInternal.framework/FirebaseFirestoreInternal_Privacy.bundle/PrivacyInfo.xcprivacy ... 
-2026-08-01 04:11:54 +0000  1105 bytes for ./Payload/FleetInvoice.app/Frameworks/FirebaseFirestoreInternal.framework/FirebaseFirestoreInternal_Privacy.bundle/PrivacyInfo.xcprivacy
-copying file ./Payload/FleetInvoice.app/Frameworks/FirebaseFirestoreInternal.framework/FirebaseFirestoreInternal_Privacy.bundle/Info.plist ... 
-2026-08-01 04:11:54 +0000  816 bytes for ./Payload/FleetInvoice.app/Frameworks/FirebaseFirestoreInternal.framework/FirebaseFirestoreInternal_Privacy.bundle/Info.plist
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/FirebaseFirestoreInternal.framework/Info.plist ... 
-2026-08-01 04:11:54 +0000  1567 bytes for ./Payload/FleetInvoice.app/Frameworks/FirebaseFirestoreInternal.framework/Info.plist
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/grpc.framework/_CodeSignature/CodeResources ... 
-2026-08-01 04:11:54 +0000  2288 bytes for ./Payload/FleetInvoice.app/Frameworks/grpc.framework/_CodeSignature/CodeResources
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/grpc.framework/grpc ... 
-2026-08-01 04:11:54 +0000  51376 bytes for ./Payload/FleetInvoice.app/Frameworks/grpc.framework/grpc
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/grpc.framework/grpc.bundle/PrivacyInfo.xcprivacy ... 
-2026-08-01 04:11:54 +0000  817 bytes for ./Payload/FleetInvoice.app/Frameworks/grpc.framework/grpc.bundle/PrivacyInfo.xcprivacy
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/grpc.framework/grpc.bundle/Info.plist ... 
-2026-08-01 04:11:54 +0000  755 bytes for ./Payload/FleetInvoice.app/Frameworks/grpc.framework/grpc.bundle/Info.plist
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/grpc.framework/Info.plist ... 
-2026-08-01 04:11:54 +0000  1503 bytes for ./Payload/FleetInvoice.app/Frameworks/grpc.framework/Info.plist
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/openssl_grpc.framework/_CodeSignature/CodeResources ... 
-2026-08-01 04:11:54 +0000  2320 bytes for ./Payload/FleetInvoice.app/Frameworks/openssl_grpc.framework/_CodeSignature/CodeResources
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/openssl_grpc.framework/openssl_grpc ... 
-2026-08-01 04:11:54 +0000  51392 bytes for ./Payload/FleetInvoice.app/Frameworks/openssl_grpc.framework/openssl_grpc
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/openssl_grpc.framework/openssl_grpc.bundle/PrivacyInfo.xcprivacy ... 
-2026-08-01 04:11:54 +0000  817 bytes for ./Payload/FleetInvoice.app/Frameworks/openssl_grpc.framework/openssl_grpc.bundle/PrivacyInfo.xcprivacy
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/openssl_grpc.framework/openssl_grpc.bundle/Info.plist ... 
-2026-08-01 04:11:54 +0000  771 bytes for ./Payload/FleetInvoice.app/Frameworks/openssl_grpc.framework/openssl_grpc.bundle/Info.plist
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/openssl_grpc.framework/Info.plist ... 
-2026-08-01 04:11:54 +0000  1527 bytes for ./Payload/FleetInvoice.app/Frameworks/openssl_grpc.framework/Info.plist
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/absl.framework/_CodeSignature/CodeResources ... 
-2026-08-01 04:11:54 +0000  2308 bytes for ./Payload/FleetInvoice.app/Frameworks/absl.framework/_CodeSignature/CodeResources
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/absl.framework/absl ... 
-2026-08-01 04:11:54 +0000  51376 bytes for ./Payload/FleetInvoice.app/Frameworks/absl.framework/absl
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/absl.framework/xcprivacy.bundle/PrivacyInfo.xcprivacy ... 
-2026-08-01 04:11:54 +0000  373 bytes for ./Payload/FleetInvoice.app/Frameworks/absl.framework/xcprivacy.bundle/PrivacyInfo.xcprivacy
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/absl.framework/xcprivacy.bundle/Info.plist ... 
-2026-08-01 04:11:54 +0000  769 bytes for ./Payload/FleetInvoice.app/Frameworks/absl.framework/xcprivacy.bundle/Info.plist
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/absl.framework/Info.plist ... 
-2026-08-01 04:11:54 +0000  1508 bytes for ./Payload/FleetInvoice.app/Frameworks/absl.framework/Info.plist
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/embedded.mobileprovision ... 
-2026-08-01 04:11:54 +0000  12238 bytes for ./Payload/FleetInvoice.app/embedded.mobileprovision
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/Info.plist ... 
-2026-08-01 04:11:54 +0000  1417 bytes for ./Payload/FleetInvoice.app/Info.plist
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/abseil_abslWrapper.bundle/PrivacyInfo.xcprivacy ... 
-2026-08-01 04:11:54 +0000  380 bytes for ./Payload/FleetInvoice.app/abseil_abslWrapper.bundle/PrivacyInfo.xcprivacy
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/abseil_abslWrapper.bundle/Info.plist ... 
-2026-08-01 04:11:54 +0000  692 bytes for ./Payload/FleetInvoice.app/abseil_abslWrapper.bundle/Info.plist
-2026-08-01 04:11:54 +0000  copying file ./Payload/FleetInvoice.app/PkgInfo ... 
-2026-08-01 04:11:54 +0000  8 bytes for ./Payload/FleetInvoice.app/PkgInfo
-2026-08-01 04:11:54 +0000  /usr/bin/ditto exited with 0
-2026-08-01 04:11:54 +0000  Processing step: IDEDistributionAppStoreInformationStep
-2026-08-01 04:11:54 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
-2026-08-01 04:11:54 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
-2026-08-01 04:11:54 +0000  IDEDistributionItem init <DVTFilePath:0x9f06c1a40:'/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~eYLuVQ/Root/Payload/FleetInvoice.app/Frameworks/grpcpp.framework'>
-2026-08-01 04:11:54 +0000  IDEDistributionItem init <DVTFilePath:0x9c2a4b2a0:'/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~eYLuVQ/Root/Payload/FleetInvoice.app/Frameworks/grpc.framework'>
-2026-08-01 04:11:54 +0000  IDEDistributionItem init <DVTFilePath:0x9e3b66d00:'/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~eYLuVQ/Root/Payload/FleetInvoice.app/Frameworks/FirebaseFirestoreInternal.framework'>
-2026-08-01 04:11:54 +0000  IDEDistributionItem init <DVTFilePath:0x9f06c1340:'/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~eYLuVQ/Root/Payload/FleetInvoice.app/Frameworks/openssl_grpc.framework'>
-2026-08-01 04:11:54 +0000  IDEDistributionItem init <DVTFilePath:0x9c2a4ba20:'/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~eYLuVQ/Root/Payload/FleetInvoice.app/Frameworks/absl.framework'>
-2026-08-01 04:11:54 +0000  IDEDistributionItem init <DVTFilePath:0x9f06c1180:'/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~eYLuVQ/Root/Payload/FleetInvoice.app'>
-2026-08-01 04:11:54 +0000  Processing step: IDEDistributionCreateManifestStep
+723 bytes for ./Payload/FleetInvoice.app/GoogleUtilities_GoogleUtilities-Network.bundle/Info.plist
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/Assets.car ... 
+2026-08-01 04:42:45 +0000  33560 bytes for ./Payload/FleetInvoice.app/Assets.car
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/AppIcon76x76@2x~ipad.png ... 
+2026-08-01 04:42:45 +0000  4562 bytes for ./Payload/FleetInvoice.app/AppIcon76x76@2x~ipad.png
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/Firebase_FirebaseCoreExtension.bundle/PrivacyInfo.xcprivacy ... 
+2026-08-01 04:42:45 +0000  478 bytes for ./Payload/FleetInvoice.app/Firebase_FirebaseCoreExtension.bundle/PrivacyInfo.xcprivacy
+copying file ./Payload/FleetInvoice.app/Firebase_FirebaseCoreExtension.bundle/Info.plist ... 
+2026-08-01 04:42:45 +0000  713 bytes for ./Payload/FleetInvoice.app/Firebase_FirebaseCoreExtension.bundle/Info.plist
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/GoogleUtilities_GoogleUtilities-Environment.bundle/PrivacyInfo.xcprivacy ... 
+2026-08-01 04:42:45 +0000  911 bytes for ./Payload/FleetInvoice.app/GoogleUtilities_GoogleUtilities-Environment.bundle/PrivacyInfo.xcprivacy
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/GoogleUtilities_GoogleUtilities-Environment.bundle/Info.plist ... 
+731 bytes for ./Payload/FleetInvoice.app/GoogleUtilities_GoogleUtilities-Environment.bundle/Info.plist
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/grpcpp.framework/_CodeSignature/CodeResources ... 
+2026-08-01 04:42:45 +0000  2296 bytes for ./Payload/FleetInvoice.app/Frameworks/grpcpp.framework/_CodeSignature/CodeResources
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/grpcpp.framework/grpcpp ... 
+2026-08-01 04:42:45 +0000  51376 bytes for ./Payload/FleetInvoice.app/Frameworks/grpcpp.framework/grpcpp
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/grpcpp.framework/grpcpp.bundle/PrivacyInfo.xcprivacy ... 
+2026-08-01 04:42:45 +0000  817 bytes for ./Payload/FleetInvoice.app/Frameworks/grpcpp.framework/grpcpp.bundle/PrivacyInfo.xcprivacy
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/grpcpp.framework/grpcpp.bundle/Info.plist ... 
+759 bytes for ./Payload/FleetInvoice.app/Frameworks/grpcpp.framework/grpcpp.bundle/Info.plist
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/grpcpp.framework/Info.plist ... 
+2026-08-01 04:42:45 +0000  1509 bytes for ./Payload/FleetInvoice.app/Frameworks/grpcpp.framework/Info.plist
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/FirebaseFirestoreInternal.framework/_CodeSignature/CodeResources ... 
+2026-08-01 04:42:45 +0000  2404 bytes for ./Payload/FleetInvoice.app/Frameworks/FirebaseFirestoreInternal.framework/_CodeSignature/CodeResources
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/FirebaseFirestoreInternal.framework/FirebaseFirestoreInternal ... 
+2026-08-01 04:42:45 +0000  51408 bytes for ./Payload/FleetInvoice.app/Frameworks/FirebaseFirestoreInternal.framework/FirebaseFirestoreInternal
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/FirebaseFirestoreInternal.framework/FirebaseFirestoreInternal_Privacy.bundle/PrivacyInfo.xcprivacy ... 
+2026-08-01 04:42:45 +0000  1105 bytes for ./Payload/FleetInvoice.app/Frameworks/FirebaseFirestoreInternal.framework/FirebaseFirestoreInternal_Privacy.bundle/PrivacyInfo.xcprivacy
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/FirebaseFirestoreInternal.framework/FirebaseFirestoreInternal_Privacy.bundle/Info.plist ... 
+816 bytes for ./Payload/FleetInvoice.app/Frameworks/FirebaseFirestoreInternal.framework/FirebaseFirestoreInternal_Privacy.bundle/Info.plist
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/FirebaseFirestoreInternal.framework/Info.plist ... 
+2026-08-01 04:42:45 +0000  1567 bytes for ./Payload/FleetInvoice.app/Frameworks/FirebaseFirestoreInternal.framework/Info.plist
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/grpc.framework/_CodeSignature/CodeResources ... 
+2026-08-01 04:42:45 +0000  2288 bytes for ./Payload/FleetInvoice.app/Frameworks/grpc.framework/_CodeSignature/CodeResources
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/grpc.framework/grpc ... 
+2026-08-01 04:42:45 +0000  51376 bytes for ./Payload/FleetInvoice.app/Frameworks/grpc.framework/grpc
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/grpc.framework/grpc.bundle/PrivacyInfo.xcprivacy ... 
+2026-08-01 04:42:45 +0000  817 bytes for ./Payload/FleetInvoice.app/Frameworks/grpc.framework/grpc.bundle/PrivacyInfo.xcprivacy
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/grpc.framework/grpc.bundle/Info.plist ... 
+2026-08-01 04:42:45 +0000  755 bytes for ./Payload/FleetInvoice.app/Frameworks/grpc.framework/grpc.bundle/Info.plist
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/grpc.framework/Info.plist ... 
+2026-08-01 04:42:45 +0000  1503 bytes for ./Payload/FleetInvoice.app/Frameworks/grpc.framework/Info.plist
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/openssl_grpc.framework/_CodeSignature/CodeResources ... 
+2026-08-01 04:42:45 +0000  2320 bytes for ./Payload/FleetInvoice.app/Frameworks/openssl_grpc.framework/_CodeSignature/CodeResources
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/openssl_grpc.framework/openssl_grpc ... 
+2026-08-01 04:42:45 +0000  51392 bytes for ./Payload/FleetInvoice.app/Frameworks/openssl_grpc.framework/openssl_grpc
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/openssl_grpc.framework/openssl_grpc.bundle/PrivacyInfo.xcprivacy ... 
+2026-08-01 04:42:45 +0000  817 bytes for ./Payload/FleetInvoice.app/Frameworks/openssl_grpc.framework/openssl_grpc.bundle/PrivacyInfo.xcprivacy
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/openssl_grpc.framework/openssl_grpc.bundle/Info.plist ... 
+2026-08-01 04:42:45 +0000  771 bytes for ./Payload/FleetInvoice.app/Frameworks/openssl_grpc.framework/openssl_grpc.bundle/Info.plist
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/openssl_grpc.framework/Info.plist ... 
+2026-08-01 04:42:45 +0000  1527 bytes for ./Payload/FleetInvoice.app/Frameworks/openssl_grpc.framework/Info.plist
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/absl.framework/_CodeSignature/CodeResources ... 
+2026-08-01 04:42:45 +0000  2308 bytes for ./Payload/FleetInvoice.app/Frameworks/absl.framework/_CodeSignature/CodeResources
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/absl.framework/absl ... 
+2026-08-01 04:42:45 +0000  51376 bytes for ./Payload/FleetInvoice.app/Frameworks/absl.framework/absl
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/absl.framework/xcprivacy.bundle/PrivacyInfo.xcprivacy ... 
+2026-08-01 04:42:45 +0000  373 bytes for ./Payload/FleetInvoice.app/Frameworks/absl.framework/xcprivacy.bundle/PrivacyInfo.xcprivacy
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/absl.framework/xcprivacy.bundle/Info.plist ... 
+2026-08-01 04:42:45 +0000  769 bytes for ./Payload/FleetInvoice.app/Frameworks/absl.framework/xcprivacy.bundle/Info.plist
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/Frameworks/absl.framework/Info.plist ... 
+2026-08-01 04:42:45 +0000  1508 bytes for ./Payload/FleetInvoice.app/Frameworks/absl.framework/Info.plist
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/embedded.mobileprovision ... 
+2026-08-01 04:42:45 +0000  12238 bytes for ./Payload/FleetInvoice.app/embedded.mobileprovision
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/Info.plist ... 
+2026-08-01 04:42:45 +0000  1417 bytes for ./Payload/FleetInvoice.app/Info.plist
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/abseil_abslWrapper.bundle/PrivacyInfo.xcprivacy ... 
+2026-08-01 04:42:45 +0000  380 bytes for ./Payload/FleetInvoice.app/abseil_abslWrapper.bundle/PrivacyInfo.xcprivacy
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/abseil_abslWrapper.bundle/Info.plist ... 
+2026-08-01 04:42:45 +0000  692 bytes for ./Payload/FleetInvoice.app/abseil_abslWrapper.bundle/Info.plist
+2026-08-01 04:42:45 +0000  copying file ./Payload/FleetInvoice.app/PkgInfo ... 
+2026-08-01 04:42:45 +0000  8 bytes for ./Payload/FleetInvoice.app/PkgInfo
+2026-08-01 04:42:45 +0000  /usr/bin/ditto exited with 0
+2026-08-01 04:42:45 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2026-08-01 04:42:45 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2026-08-01 04:42:45 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2026-08-01 04:42:45 +0000  IDEDistributionItem init <DVTFilePath:0x9f8836b00:'/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~i5Z6rt/Root/Payload/FleetInvoice.app/Frameworks/FirebaseFirestoreInternal.framework'>
+2026-08-01 04:42:45 +0000  IDEDistributionItem init <DVTFilePath:0x9c2afa8e0:'/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~i5Z6rt/Root/Payload/FleetInvoice.app/Frameworks/absl.framework'>
+2026-08-01 04:42:45 +0000  IDEDistributionItem init <DVTFilePath:0x9f2e6ce00:'/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~i5Z6rt/Root/Payload/FleetInvoice.app/Frameworks/openssl_grpc.framework'>
+2026-08-01 04:42:45 +0000  IDEDistributionItem init <DVTFilePath:0x9f2e6ed80:'/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~i5Z6rt/Root/Payload/FleetInvoice.app/Frameworks/grpcpp.framework'>
+2026-08-01 04:42:45 +0000  IDEDistributionItem init <DVTFilePath:0x9c2afb240:'/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~i5Z6rt/Root/Payload/FleetInvoice.app/Frameworks/grpc.framework'>
+2026-08-01 04:42:45 +0000  IDEDistributionItem init <DVTFilePath:0x9f2e6ed10:'/var/folders/_5/lz52c7nn4rl7xv1mjs_ks1340000gn/T/XcodeDistPipeline.~~~i5Z6rt/Root/Payload/FleetInvoice.app'>
+2026-08-01 04:42:45 +0000  Processing step: IDEDistributionCreateManifestStep
