@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FleetInvoice iOS App - VTL TRANS LLC</title>
-    <meta name="description" content="Download and test the FleetInvoice iOS mobile application for VTL TRANS LLC drivers and partners.">
+    <title>Fleet Invoice AI - Support | VTL TRANS LLC</title>
+    <meta name="description" content="Fleet Invoice AI: AI-powered expense and paperwork management for trucking fleets. Support, FAQs, and product info.">
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -17,6 +17,17 @@
             color: var(--white);
             text-align: center;
         }
+        .apps-hero .app-badge {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 72px;
+            height: 72px;
+            border-radius: 20px;
+            background: rgba(255, 255, 255, 0.12);
+            font-size: 2.2rem;
+            margin-bottom: 20px;
+        }
         .apps-hero h1 {
             font-size: 2.8rem;
             font-weight: 800;
@@ -25,159 +36,148 @@
         .apps-hero p {
             font-size: 1.2rem;
             opacity: 0.9;
-            max-width: 600px;
+            max-width: 620px;
             margin: 0 auto;
         }
-        .app-card {
+
+        .app-intro-card {
             background: var(--white);
-            max-width: 650px;
-            margin: -40px auto 40px;
+            max-width: 780px;
+            margin: -40px auto 0;
             border-radius: 12px;
-            box-shadow: 0 15px 35px rgba(0,0,0,0.1);
-            padding: 40px;
+            box-shadow: 0 15px 35px rgba(0, 0, 0, 0.1);
+            padding: 40px 45px;
             text-align: center;
             border: 1px solid #eaeaea;
+            position: relative;
+            z-index: 2;
         }
-        .app-icon-display {
-            width: 114px;
-            height: 114px;
-            border-radius: 24px;
-            box-shadow: 0 8px 20px rgba(15, 58, 102, 0.25);
-            margin-bottom: 20px;
-        }
-        .app-title {
-            font-size: 1.8rem;
-            font-weight: 700;
-            color: var(--primary-color);
-            margin-bottom: 5px;
-        }
-        .app-meta {
-            color: var(--text-light);
-            font-size: 0.95rem;
-            margin-bottom: 30px;
-        }
-        .app-meta span {
-            display: inline-block;
-            background: #eef4f9;
-            color: var(--primary-color);
-            padding: 4px 12px;
-            border-radius: 20px;
-            font-weight: 600;
-            font-size: 0.85rem;
-            margin: 0 5px;
-        }
-        .install-btn {
-            display: inline-block;
-            background-color: var(--primary-color);
-            color: var(--white);
-            padding: 16px 36px;
+        .app-intro-card p {
             font-size: 1.1rem;
-            font-weight: 700;
-            border-radius: 8px;
-            text-decoration: none;
-            transition: all 0.3s ease;
-            box-shadow: 0 4px 15px rgba(15, 58, 102, 0.3);
-            margin-bottom: 15px;
+            line-height: 1.7;
+            color: var(--text-main);
+            margin: 0;
         }
-        .install-btn:hover {
-            background-color: #0a2745;
-            transform: translateY(-2px);
-            box-shadow: 0 6px 20px rgba(15, 58, 102, 0.4);
-            color: var(--white);
+
+        .feature-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 25px;
+            margin-top: 40px;
         }
-        .guide-section {
-            max-width: 800px;
-            margin: 40px auto;
-            padding: 0 20px;
-        }
-        .guide-step {
+        .feature-card {
+            background: var(--white);
+            border: 1px solid #eaeaea;
+            border-radius: 12px;
+            padding: 28px;
             display: flex;
             align-items: flex-start;
-            margin-bottom: 25px;
-            background: var(--bg-light);
-            padding: 20px;
-            border-radius: 8px;
-            border-left: 4px solid var(--secondary-color);
+            gap: 18px;
+            transition: all var(--transition-normal);
         }
-        .step-number {
-            background: var(--primary-color);
-            color: var(--white);
-            width: 32px;
-            height: 32px;
-            border-radius: 50%;
+        .feature-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 12px 30px rgba(15, 58, 102, 0.1);
+            border-color: transparent;
+        }
+        .feature-icon-circle {
+            flex-shrink: 0;
+            width: 52px;
+            height: 52px;
+            border-radius: 14px;
+            background: #eef4f9;
             display: flex;
             align-items: center;
             justify-content: center;
-            font-weight: 700;
-            margin-right: 15px;
-            flex-shrink: 0;
+            font-size: 1.5rem;
         }
-        .step-text h4 {
+        .feature-card h3 {
             font-size: 1.1rem;
+            font-weight: 700;
             color: var(--primary-color);
-            margin-bottom: 5px;
+            margin-bottom: 6px;
         }
-        .step-text p {
-            color: var(--text-light);
+        .feature-card p {
             font-size: 0.95rem;
+            color: var(--text-light);
+            margin: 0;
+            line-height: 1.6;
+        }
+
+        .support-card {
+            max-width: 650px;
+            margin: 0 auto;
+            text-align: center;
+        }
+        .support-card p {
+            font-size: 1.05rem;
+            color: var(--text-light);
+            margin-bottom: 25px;
+        }
+        .support-card a.btn {
+            margin: 0 6px;
+        }
+
+        .faq-list {
+            max-width: 780px;
+            margin: 40px auto 0;
+        }
+        .faq-item {
+            background: var(--white);
+            border: 1px solid #eaeaea;
+            border-radius: 10px;
+            margin-bottom: 14px;
+            padding: 4px 24px;
+            transition: border-color var(--transition-fast);
+        }
+        .faq-item[open] {
+            border-color: var(--secondary-color);
+        }
+        .faq-item summary {
+            list-style: none;
+            cursor: pointer;
+            padding: 18px 0;
+            font-weight: 700;
+            color: var(--primary-color);
+            font-size: 1.05rem;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .faq-item summary::-webkit-details-marker {
+            display: none;
+        }
+        .faq-item summary::after {
+            content: '+';
+            font-size: 1.4rem;
+            font-weight: 400;
+            color: var(--secondary-color);
+            transition: transform var(--transition-fast);
+            flex-shrink: 0;
+            margin-left: 15px;
+        }
+        .faq-item[open] summary::after {
+            transform: rotate(45deg);
+        }
+        .faq-item p {
+            color: var(--text-light);
+            line-height: 1.7;
+            padding-bottom: 20px;
             margin: 0;
         }
-        .asset-table-container {
-            max-width: 850px;
-            margin: 50px auto 80px;
-            padding: 0 20px;
-        }
-        .asset-box {
-            background: #f8fafc;
-            border: 1px solid #e2e8f0;
-            border-radius: 8px;
-            padding: 25px;
-        }
-        .asset-box h3 {
-            color: var(--primary-color);
-            margin-bottom: 15px;
-            font-size: 1.3rem;
-            border-bottom: 2px solid var(--secondary-color);
-            padding-bottom: 10px;
-            display: inline-block;
-        }
-        .url-item {
-            margin-bottom: 15px;
-        }
-        .url-item label {
-            display: block;
-            font-weight: 600;
-            color: var(--text-main);
-            margin-bottom: 5px;
-            font-size: 0.9rem;
-        }
-        .url-input-group {
-            display: flex;
-            gap: 10px;
-        }
-        .url-input-group input {
-            flex: 1;
-            padding: 10px 14px;
-            border: 1px solid #cbd5e1;
-            border-radius: 6px;
-            font-family: monospace;
-            font-size: 0.9rem;
-            background: var(--white);
-            color: var(--primary-color);
-        }
-        .copy-btn {
-            background: var(--primary-color);
-            color: var(--white);
-            border: none;
-            padding: 10px 18px;
-            border-radius: 6px;
-            font-weight: 600;
-            cursor: pointer;
-            transition: all 0.2s;
-        }
-        .copy-btn:hover {
-            background: var(--secondary-color);
-            color: var(--primary-color);
+
+        @media (max-width: 768px) {
+            .apps-hero h1 {
+                font-size: 2.1rem;
+            }
+            .app-intro-card {
+                padding: 30px 25px;
+                margin-left: 20px;
+                margin-right: 20px;
+            }
+            .feature-grid {
+                grid-template-columns: 1fr;
+            }
         }
     </style>
 </head>
@@ -186,17 +186,17 @@
     <header class="header scrolled" id="header">
         <div class="container header-container">
             <a href="../" class="logo"><img src="../logo.png" alt="VTL TRANS LLC" class="header-logo"></a>
-            
+
             <nav class="nav" id="nav-menu">
                 <ul class="nav-list">
                     <li class="nav-item"><a href="../" class="nav-link">Home</a></li>
                     <li class="nav-item"><a href="../#about" class="nav-link">About Us</a></li>
                     <li class="nav-item"><a href="../#services" class="nav-link">Services</a></li>
                     <li class="nav-item"><a href="../#contact" class="nav-link">Contact</a></li>
-                    <li class="nav-item"><a href="#" class="nav-link active">Mobile App</a></li>
+                    <li class="nav-item"><a href="#" class="nav-link active">Fleet Invoice AI</a></li>
                 </ul>
             </nav>
-            
+
             <div class="header-actions">
                 <a href="tel:4805007076" class="btn btn-outline">Call: 480-500-7076</a>
             </div>
@@ -206,63 +206,99 @@
     <!-- Hero Section -->
     <section class="apps-hero">
         <div class="container">
-            <h1>iOS App Distribution Portal</h1>
-            <p>Download and test the FleetInvoice mobile application for VTL TRANS LLC drivers and partners.</p>
+            <div class="app-badge">🧾</div>
+            <h1>Fleet Invoice AI</h1>
+            <p>AI-powered expense and paperwork management for trucking fleets.</p>
         </div>
     </section>
 
-    <!-- App Download Card -->
+    <!-- Intro Card -->
     <div class="container">
-        <div class="app-card">
-            <img src="full-size-image.png" alt="VTL TRANS LLC iOS Icon" class="app-icon-display">
-            <h2 class="app-title">FleetInvoice Mobile</h2>
-            <div class="app-meta">
-                <span>Version 1.0</span>
-                <span>iOS OTA Build</span>
-                <span>Driver & Partner Testing</span>
-            </div>
-            
-            <div>
-                <!-- Over-The-Air Installation Link -->
-                <a href="itms-services://?action=download-manifest&url=https://www.vtltransllc.com/apps/manifest.plist" class="install-btn">
-                    📲 Install FleetInvoice iOS App
-                </a>
-            </div>
-            <p style="font-size: 0.85rem; color: #888; margin-top: 10px;">
-                Note: OTA installation works only on iPhone/iPad using Safari over an HTTPS connection.
-            </p>
+        <div class="app-intro-card">
+            <p>Fleet Invoice AI turns a driver's phone into a complete expense and document system — receipts get read automatically by AI, Bills of Lading and Proof of Delivery get scanned as clean PDFs, and every submission alerts the office by WhatsApp and email in real time.</p>
         </div>
     </div>
 
-    <!-- Installation & Trust Guide -->
-    <div class="guide-section">
-        <h2 class="section-title text-center" style="font-size: 1.8rem;">How to Install on iOS</h2>
-        <div class="divider center"></div>
-        
-        <div class="guide-step">
-            <div class="step-number">1</div>
-            <div class="step-text">
-                <h4>Tap "Install FleetInvoice iOS App" in Safari</h4>
-                <p>Open this page on your iPhone or iPad using iOS Safari, tap the install button above, and select <strong>Install</strong> when prompted.</p>
+    <!-- What It Does -->
+    <section class="section">
+        <div class="container">
+            <h2 class="section-title text-center">What It Does</h2>
+            <div class="divider center"></div>
+
+            <div class="feature-grid">
+                <div class="feature-card">
+                    <div class="feature-icon-circle">🧾</div>
+                    <div>
+                        <h3>Automatic Receipt Scanning</h3>
+                        <p>Scans receipts and reads vendor, amount, date, and category automatically.</p>
+                    </div>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon-circle">📄</div>
+                    <div>
+                        <h3>BOL &amp; POD Capture</h3>
+                        <p>Captures multi-page Bill of Lading / Proof of Delivery documents as clean PDF.</p>
+                    </div>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon-circle">📊</div>
+                    <div>
+                        <h3>Live Spend Dashboard</h3>
+                        <p>Gives fleet managers a live spend dashboard, full ledger, and audit trail.</p>
+                    </div>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon-circle">🔔</div>
+                    <div>
+                        <h3>Instant Alerts</h3>
+                        <p>Sends instant alerts to WhatsApp and email whenever a driver submits something.</p>
+                    </div>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon-circle">🔒</div>
+                    <div>
+                        <h3>Secure by Company</h3>
+                        <p>Keeps every company's data fully separate and secure.</p>
+                    </div>
+                </div>
             </div>
         </div>
-        
-        <div class="guide-step">
-            <div class="step-number">2</div>
-            <div class="step-text">
-                <h4>Open Device Management Settings</h4>
-                <p>On your device, navigate to <strong>Settings &gt; General &gt; VPN &amp; Device Management</strong>.</p>
+    </section>
+
+    <!-- Support -->
+    <section class="section bg-light">
+        <div class="container">
+            <div class="support-card">
+                <h2 class="section-title text-center">Support</h2>
+                <div class="divider center"></div>
+                <p>Need help with Fleet Invoice AI? Contact us at <a href="mailto:info@vtltransllc.com">info@vtltransllc.com</a> and we'll get back to you.</p>
+                <a href="mailto:info@vtltransllc.com" class="btn btn-primary">Email Support</a>
             </div>
         </div>
-        
-        <div class="guide-step">
-            <div class="step-number">3</div>
-            <div class="step-text">
-                <h4>Trust the Developer Certificate</h4>
-                <p>Tap on <strong>VTL TRANS LLC</strong> under Enterprise/Developer App, tap <strong>Trust "VTL TRANS LLC"</strong>, and confirm.</p>
+    </section>
+
+    <!-- FAQ -->
+    <section class="section">
+        <div class="container">
+            <h2 class="section-title text-center">Frequently Asked Questions</h2>
+            <div class="divider center"></div>
+
+            <div class="faq-list">
+                <details class="faq-item">
+                    <summary>How do I get access?</summary>
+                    <p>Your fleet administrator sets up your account and gives you a Company Code to register with in the app.</p>
+                </details>
+                <details class="faq-item">
+                    <summary>I forgot my PIN — what do I do?</summary>
+                    <p>Contact your fleet administrator to reset your account.</p>
+                </details>
+                <details class="faq-item">
+                    <summary>Is my company's data visible to other companies using the app?</summary>
+                    <p>No. Every company's data is fully isolated and never shared or visible across accounts.</p>
+                </details>
             </div>
         </div>
-    </div>
+    </section>
 
     <!-- Footer -->
     <footer id="contact" class="footer">
@@ -277,7 +313,7 @@
                     <li><a href="../">Home</a></li>
                     <li><a href="../#about">About Us</a></li>
                     <li><a href="../#services">Our Services</a></li>
-                    <li><a href="#">Mobile App</a></li>
+                    <li><a href="#">Fleet Invoice AI</a></li>
                     <li><a href="https://safer.fmcsa.dot.gov/query.asp" target="_blank">FMCSA Safer Query</a></li>
                 </ul>
             </div>
@@ -294,5 +330,6 @@
                 <p>&copy; 2026 VTLTRANSLLC. All rights reserved.</p>
             </div>
         </div>
+    </footer>
 </body>
 </html>
